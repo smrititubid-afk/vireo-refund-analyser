@@ -1,0 +1,5 @@
+original task data/
+__pycache__/
+*.pyc
+.streamlit/
+.env
