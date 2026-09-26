@@ -1,0 +1,31 @@
+ticket_id,created_at,agent_id,name,team,refund_amount_inr,refund_reason_code,reason_label,replacement_issued,source_system
+TK-245356,2025-09-30 20:23:00,A3027,Priya Agarwal,Logistics,2799.0,GW-OTHER,Goodwill / Other,Y,helpdesk
+TK-241026,2025-03-14 20:59:00,A3035,Dev Kulkarni,Billing,324.0,GW-OTHER,Goodwill / Other,N,legacy_fd
+TK-241089,2025-03-18 18:06:00,A3036,Ritika D'Souza,Returns Desk,4748.0,RETURN-QC-OK,Return Accepted (QC Passed),N,legacy_fd
+TK-246991,2025-11-13 20:23:00,A3030,Aishwarya Trivedi,Logistics,700.0,LOST-TRANSIT,Lost or Undelivered,N,helpdesk
+TK-251570,2026-03-27 22:39:00,A3037,Manish Iyer,Returns Desk,1000.0,RETURN-QC-OK,Return Accepted (QC Passed),N,helpdesk
+TK-241315,2025-03-30 20:54:00,A3035,Dev Kulkarni,Billing,4499.0,GW-OTHER,Goodwill / Other,N,legacy_fd
+TK-253839,2026-06-08 08:28:00,A3021,Meera Mathew,Email Frontline,3149.0,DOA-REPL,Dead on Arrival (Replacement),N,helpdesk
+TK-250234,2026-02-16 16:09:00,A3038,Ankit Dhillon,Returns Desk,5524.0,DOA-REPL,Dead on Arrival (Replacement),Y,helpdesk
+TK-244078,2025-08-14 20:22:00,A3036,Ritika D'Souza,Returns Desk,472.0,GW-OTHER,Goodwill / Other,N,legacy_fd
+TK-241942,2025-05-02 17:23:00,A3017,Kabir Singh,Email Frontline,1999.0,GW-OTHER,Goodwill / Other,N,legacy_fd
+TK-242313,2025-05-22 20:12:00,A3035,Dev Kulkarni,Billing,5949.0,PRICE-ADJ,Price or Coupon Adjustment,N,legacy_fd
+TK-251307,2026-03-20 22:06:00,A3034,Tanvi Rathore,Billing,2499.0,GW-OTHER,Goodwill / Other,N,helpdesk
+TK-241126,2025-03-21 16:13:00,A3012,Lakshmi Srivastava,Chat Frontline,2500.0,DOA-REPL,Dead on Arrival (Replacement),N,legacy_fd
+TK-242025,2025-05-07 10:47:00,A3011,Rohit Gill,Chat Frontline,1170.0,GW-OTHER,Goodwill / Other,N,legacy_fd
+TK-249996,2026-02-09 08:28:00,A3038,Ankit Dhillon,Returns Desk,1999.0,GW-OTHER,Goodwill / Other,N,helpdesk
+TK-247905,2025-12-06 18:55:00,A3032,Sneha Bansal,Billing,237.0,GW-OTHER,Goodwill / Other,N,helpdesk
+TK-253184,2026-05-20 10:32:00,A3010,Tenzin Mathew,Chat Frontline,2974.0,CANCEL,Order Cancellation,N,helpdesk
+TK-251770,2026-04-02 21:15:00,A3028,Sameer Kapoor,Logistics,1999.0,LOST-TRANSIT,Lost or Undelivered,N,helpdesk
+TK-243305,2025-07-13 19:00:00,A3028,Sameer Kapoor,Logistics,2499.0,GW-OTHER,Goodwill / Other,N,legacy_fd
+TK-248384,2025-12-21 08:05:00,A3007,Abhishek Gupta,Chat Frontline,3499.0,DUP-PAYMENT,Duplicate Payment,N,helpdesk
+TK-246639,2025-11-05 11:09:00,A3037,Manish Iyer,Returns Desk,1799.0,GW-OTHER,Goodwill / Other,N,helpdesk
+TK-247190,2025-11-19 16:59:00,A3038,Ankit Dhillon,Returns Desk,297.0,GW-OTHER,Goodwill / Other,N,helpdesk
+TK-244615,2025-09-06 14:54:00,A3015,Sameer Jadhav,Chat Frontline,1750.0,CANCEL,Order Cancellation,N,legacy_fd
+TK-242021,2025-05-07 09:32:00,A3031,Zaid Desai,Logistics,780.0,LOST-TRANSIT,Lost or Undelivered,N,legacy_fd
+TK-245507,2025-10-06 07:21:00,A3037,Manish Iyer,Returns Desk,665.0,RETURN-QC-OK,Return Accepted (QC Passed),N,helpdesk
+TK-249977,2026-02-08 19:09:00,A3028,Sameer Kapoor,Logistics,3324.0,WTY-BUYBACK,Warranty Buy-back,Y,helpdesk
+TK-242105,2025-05-12 08:18:00,A3007,Abhishek Gupta,Chat Frontline,375.0,CANCEL,Order Cancellation,N,legacy_fd
+TK-243451,2025-07-21 13:15:00,A3013,Rohit Nair,Chat Frontline,11998.0,CANCEL,Order Cancellation,N,legacy_fd
+TK-240529,2025-02-11 08:47:00,A3038,Ankit Dhillon,Returns Desk,150.0,RETURN-QC-OK,Return Accepted (QC Passed),N,legacy_fd
+TK-253561,2026-05-30 22:31:00,A3028,Sameer Kapoor,Logistics,2124.0,GW-OTHER,Goodwill / Other,N,helpdesk

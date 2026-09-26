@@ -1,0 +1,1150 @@
+year_month,refund_reason_code,reason_label,agent_id,name,team,ticket_count,total_refund_inr
+2025-01,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,2,14698.0
+2025-01,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,4,11377.0
+2025-01,GW-OTHER,Goodwill / Other,A3023,Ritika Gaikwad,Voice Frontline,1,8998.0
+2025-01,CANCEL,Order Cancellation,A3010,Tenzin Mathew,Chat Frontline,2,8173.0
+2025-01,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,1,6999.0
+2025-01,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,4,6714.0
+2025-01,CANCEL,Order Cancellation,A3008,Meera Malhotra,Chat Frontline,1,6649.0
+2025-01,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,2,5598.0
+2025-01,DUP-PAYMENT,Duplicate Payment,A3020,Aadhya Singh,Email Frontline,1,5399.0
+2025-01,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,1,4999.0
+2025-01,GW-OTHER,Goodwill / Other,A3032,Sneha Bansal,Billing,2,4673.0
+2025-01,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,4,4542.0
+2025-01,DOA-REPL,Dead on Arrival (Replacement),A3006,Varun Bhatt,Chat Frontline,1,4249.0
+2025-01,GW-OTHER,Goodwill / Other,A3019,Kavya Agarwal,Email Frontline,1,4248.0
+2025-01,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,1,3999.0
+2025-01,GW-OTHER,Goodwill / Other,A3022,Daniel Arora,Email Frontline,2,3398.0
+2025-01,GW-OTHER,Goodwill / Other,A3029,Rajat Mukherjee,Logistics,2,3217.0
+2025-01,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,3,2853.0
+2025-01,GW-OTHER,Goodwill / Other,A3039,Reyansh Mishra,Escalations & Warranty,2,2787.0
+2025-01,GW-OTHER,Goodwill / Other,A3007,Abhishek Gupta,Chat Frontline,1,2499.0
+2025-01,WTY-BUYBACK,Warranty Buy-back,A3003,Komal Singh,Chat Frontline,1,2499.0
+2025-01,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,1,2374.0
+2025-01,CANCEL,Order Cancellation,A3009,Sukhwinder Singh,Chat Frontline,1,2124.0
+2025-01,GW-OTHER,Goodwill / Other,A3031,Zaid Desai,Logistics,1,1999.0
+2025-01,CANCEL,Order Cancellation,A3031,Zaid Desai,Logistics,1,1799.0
+2025-01,DOA-REPL,Dead on Arrival (Replacement),A3031,Zaid Desai,Logistics,1,1799.0
+2025-01,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,1,1799.0
+2025-01,GW-OTHER,Goodwill / Other,A3002,Steven Ansari,Chat Frontline,1,1799.0
+2025-01,RETURN-QC-OK,Return Accepted (QC Passed),A3032,Sneha Bansal,Billing,1,1619.0
+2025-01,RETURN-QC-OK,Return Accepted (QC Passed),A3028,Sameer Kapoor,Logistics,1,1599.0
+2025-01,DOA-REPL,Dead on Arrival (Replacement),A3018,Krishna Bhatt,Email Frontline,1,1299.0
+2025-01,DUP-PAYMENT,Duplicate Payment,A3005,Payal Bhatia,Chat Frontline,1,1250.0
+2025-01,GW-OTHER,Goodwill / Other,A3040,Thomas Jadhav,Escalations & Warranty,1,900.0
+2025-01,RETURN-QC-OK,Return Accepted (QC Passed),A3034,Tanvi Rathore,Billing,1,700.0
+2025-01,WTY-BUYBACK,Warranty Buy-back,A3018,Krishna Bhatt,Email Frontline,1,342.0
+2025-01,GW-OTHER,Goodwill / Other,A3015,Sameer Jadhav,Chat Frontline,1,288.0
+2025-01,CANCEL,Order Cancellation,A3013,Rohit Nair,Chat Frontline,1,270.0
+2025-01,CANCEL,Order Cancellation,A3005,Payal Bhatia,Chat Frontline,1,240.0
+2025-01,GW-OTHER,Goodwill / Other,A3018,Krishna Bhatt,Email Frontline,1,200.0
+2025-01,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,1,80.0
+2025-02,LOST-TRANSIT,Lost or Undelivered,A3030,Aishwarya Trivedi,Logistics,1,13998.0
+2025-02,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,3,13280.0
+2025-02,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,3,9937.0
+2025-02,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,2,9498.0
+2025-02,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,3,8798.0
+2025-02,GW-OTHER,Goodwill / Other,A3012,Lakshmi Srivastava,Chat Frontline,1,6999.0
+2025-02,RETURN-QC-OK,Return Accepted (QC Passed),A3030,Aishwarya Trivedi,Logistics,2,6924.0
+2025-02,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,2,6818.0
+2025-02,WTY-BUYBACK,Warranty Buy-back,A3036,Ritika D'Souza,Returns Desk,1,6649.0
+2025-02,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,2,6544.0
+2025-02,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,1,6299.0
+2025-02,WTY-BUYBACK,Warranty Buy-back,A3018,Krishna Bhatt,Email Frontline,1,5999.0
+2025-02,RETURN-QC-OK,Return Accepted (QC Passed),A3002,Steven Ansari,Chat Frontline,1,5849.0
+2025-02,DOA-REPL,Dead on Arrival (Replacement),A3040,Thomas Jadhav,Escalations & Warranty,1,5599.0
+2025-02,GW-OTHER,Goodwill / Other,A3025,Komal Malhotra,Voice Frontline,1,5599.0
+2025-02,GW-OTHER,Goodwill / Other,A3017,Kabir Singh,Email Frontline,1,4749.0
+2025-02,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,3,4480.0
+2025-02,GW-OTHER,Goodwill / Other,A3029,Rajat Mukherjee,Logistics,2,4373.0
+2025-02,CANCEL,Order Cancellation,A3003,Komal Singh,Chat Frontline,1,4248.0
+2025-02,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,3,3440.0
+2025-02,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,2,3223.0
+2025-02,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,3,3122.0
+2025-02,CANCEL,Order Cancellation,A3026,Aadhya Deshpande,Voice Frontline,1,2520.0
+2025-02,GW-OTHER,Goodwill / Other,A3027,Priya Agarwal,Logistics,1,2499.0
+2025-02,LOST-TRANSIT,Lost or Undelivered,A3031,Zaid Desai,Logistics,1,2499.0
+2025-02,CANCEL,Order Cancellation,A3007,Abhishek Gupta,Chat Frontline,1,1999.0
+2025-02,PRICE-ADJ,Price or Coupon Adjustment,A3010,Tenzin Mathew,Chat Frontline,1,1999.0
+2025-02,WTY-BUYBACK,Warranty Buy-back,A3039,Reyansh Mishra,Escalations & Warranty,1,1899.0
+2025-02,CANCEL,Order Cancellation,A3034,Tanvi Rathore,Billing,1,1799.0
+2025-02,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,1,1799.0
+2025-02,CANCEL,Order Cancellation,A3016,Thomas Kumar,Email Frontline,1,1709.0
+2025-02,CANCEL,Order Cancellation,A3018,Krishna Bhatt,Email Frontline,1,1709.0
+2025-02,GW-OTHER,Goodwill / Other,A3026,Aadhya Deshpande,Voice Frontline,1,1699.0
+2025-02,GW-OTHER,Goodwill / Other,A3042,Swati Bhatia,Escalations & Warranty,1,1619.0
+2025-02,CANCEL,Order Cancellation,A3006,Varun Bhatt,Chat Frontline,1,1439.0
+2025-02,DOA-REPL,Dead on Arrival (Replacement),A3030,Aishwarya Trivedi,Logistics,2,1374.0
+2025-02,GW-OTHER,Goodwill / Other,A3022,Daniel Arora,Email Frontline,1,1299.0
+2025-02,DUP-PAYMENT,Duplicate Payment,A3023,Ritika Gaikwad,Voice Frontline,1,900.0
+2025-02,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,2,835.0
+2025-02,RETURN-QC-OK,Return Accepted (QC Passed),A3028,Sameer Kapoor,Logistics,1,720.0
+2025-02,CANCEL,Order Cancellation,A3029,Rajat Mukherjee,Logistics,1,600.0
+2025-02,GW-OTHER,Goodwill / Other,A3032,Sneha Bansal,Billing,1,360.0
+2025-02,CANCEL,Order Cancellation,A3019,Kavya Agarwal,Email Frontline,1,237.0
+2025-03,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,13,41860.0
+2025-03,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,5,17371.0
+2025-03,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,5,17350.0
+2025-03,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,5,16833.0
+2025-03,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,2,15597.0
+2025-03,GW-OTHER,Goodwill / Other,A3018,Krishna Bhatt,Email Frontline,2,12848.0
+2025-03,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,6,11512.0
+2025-03,GW-OTHER,Goodwill / Other,A3032,Sneha Bansal,Billing,2,8699.0
+2025-03,PRICE-ADJ,Price or Coupon Adjustment,A3034,Tanvi Rathore,Billing,3,8185.0
+2025-03,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,3,7967.0
+2025-03,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,2,7523.0
+2025-03,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,3,7522.0
+2025-03,DOA-REPL,Dead on Arrival (Replacement),A3031,Zaid Desai,Logistics,1,6999.0
+2025-03,DUP-PAYMENT,Duplicate Payment,A3001,Suresh Kaur,Chat Frontline,1,6649.0
+2025-03,GW-OTHER,Goodwill / Other,A3013,Rohit Nair,Chat Frontline,1,6649.0
+2025-03,CANCEL,Order Cancellation,A3016,Thomas Kumar,Email Frontline,1,6299.0
+2025-03,DOA-REPL,Dead on Arrival (Replacement),A3026,Aadhya Deshpande,Voice Frontline,1,6299.0
+2025-03,GW-OTHER,Goodwill / Other,A3015,Sameer Jadhav,Chat Frontline,1,6299.0
+2025-03,CANCEL,Order Cancellation,A3013,Rohit Nair,Chat Frontline,1,5849.0
+2025-03,DOA-REPL,Dead on Arrival (Replacement),A3035,Dev Kulkarni,Billing,1,5699.0
+2025-03,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,2,5686.0
+2025-03,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,1,5399.0
+2025-03,WTY-BUYBACK,Warranty Buy-back,A3013,Rohit Nair,Chat Frontline,1,4749.0
+2025-03,DUP-PAYMENT,Duplicate Payment,A3026,Aadhya Deshpande,Voice Frontline,1,4499.0
+2025-03,LOST-TRANSIT,Lost or Undelivered,A3027,Priya Agarwal,Logistics,1,3999.0
+2025-03,GW-OTHER,Goodwill / Other,A3014,Anjali D'Souza,Chat Frontline,2,3848.0
+2025-03,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,2,3598.0
+2025-03,GW-OTHER,Goodwill / Other,A3002,Steven Ansari,Chat Frontline,2,2699.0
+2025-03,DOA-REPL,Dead on Arrival (Replacement),A3012,Lakshmi Srivastava,Chat Frontline,1,2500.0
+2025-03,DOA-REPL,Dead on Arrival (Replacement),A3020,Aadhya Singh,Email Frontline,1,2499.0
+2025-03,WTY-BUYBACK,Warranty Buy-back,A3017,Kabir Singh,Email Frontline,1,2499.0
+2025-03,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,3,2459.0
+2025-03,DOA-REPL,Dead on Arrival (Replacement),A3028,Sameer Kapoor,Logistics,1,2374.0
+2025-03,GW-OTHER,Goodwill / Other,A3017,Kabir Singh,Email Frontline,1,2374.0
+2025-03,CANCEL,Order Cancellation,A3021,Meera Mathew,Email Frontline,1,1799.0
+2025-03,GW-OTHER,Goodwill / Other,A3019,Kavya Agarwal,Email Frontline,1,1799.0
+2025-03,GW-OTHER,Goodwill / Other,A3026,Aadhya Deshpande,Voice Frontline,1,1799.0
+2025-03,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,1,1799.0
+2025-03,PRICE-ADJ,Price or Coupon Adjustment,A3035,Dev Kulkarni,Billing,1,1799.0
+2025-03,DOA-REPL,Dead on Arrival (Replacement),A3027,Priya Agarwal,Logistics,1,1619.0
+2025-03,CANCEL,Order Cancellation,A3017,Kabir Singh,Email Frontline,1,1599.0
+2025-03,CANCEL,Order Cancellation,A3024,Amit Deshpande,Voice Frontline,1,1529.0
+2025-03,DOA-REPL,Dead on Arrival (Replacement),A3030,Aishwarya Trivedi,Logistics,1,1499.0
+2025-03,CANCEL,Order Cancellation,A3010,Tenzin Mathew,Chat Frontline,1,1040.0
+2025-03,DUP-PAYMENT,Duplicate Payment,A3019,Kavya Agarwal,Email Frontline,1,750.0
+2025-03,GW-OTHER,Goodwill / Other,A3011,Rohit Gill,Chat Frontline,1,375.0
+2025-04,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,4,14459.0
+2025-04,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,3,13377.0
+2025-04,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,1,13298.0
+2025-04,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,4,13071.0
+2025-04,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,6,12700.0
+2025-04,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,4,11987.0
+2025-04,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,2,11698.0
+2025-04,GW-OTHER,Goodwill / Other,A3026,Aadhya Deshpande,Voice Frontline,2,11247.0
+2025-04,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,4,10657.0
+2025-04,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,3,8389.0
+2025-04,PRICE-ADJ,Price or Coupon Adjustment,A3035,Dev Kulkarni,Billing,3,7548.0
+2025-04,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,2,7053.0
+2025-04,GW-OTHER,Goodwill / Other,A3002,Steven Ansari,Chat Frontline,1,6499.0
+2025-04,GW-OTHER,Goodwill / Other,A3014,Anjali D'Souza,Chat Frontline,1,6499.0
+2025-04,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,2,6349.0
+2025-04,DUP-PAYMENT,Duplicate Payment,A3036,Ritika D'Souza,Returns Desk,1,5999.0
+2025-04,CANCEL,Order Cancellation,A3020,Aadhya Singh,Email Frontline,1,5949.0
+2025-04,GW-OTHER,Goodwill / Other,A3029,Rajat Mukherjee,Logistics,1,5949.0
+2025-04,GW-OTHER,Goodwill / Other,A3039,Reyansh Mishra,Escalations & Warranty,1,5524.0
+2025-04,CANCEL,Order Cancellation,A3017,Kabir Singh,Email Frontline,1,5399.0
+2025-04,DOA-REPL,Dead on Arrival (Replacement),A3028,Sameer Kapoor,Logistics,2,5336.0
+2025-04,WTY-BUYBACK,Warranty Buy-back,A3026,Aadhya Deshpande,Voice Frontline,1,5199.0
+2025-04,WTY-BUYBACK,Warranty Buy-back,A3044,Arjun Kumar,Escalations & Warranty,1,5199.0
+2025-04,GW-OTHER,Goodwill / Other,A3018,Krishna Bhatt,Email Frontline,3,4288.0
+2025-04,CANCEL,Order Cancellation,A3007,Abhishek Gupta,Chat Frontline,1,4249.0
+2025-04,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,1,3998.0
+2025-04,DOA-REPL,Dead on Arrival (Replacement),A3016,Thomas Kumar,Email Frontline,1,3598.0
+2025-04,RETURN-QC-OK,Return Accepted (QC Passed),A3033,Vikram Banerjee,Billing,1,3500.0
+2025-04,RETURN-QC-OK,Return Accepted (QC Passed),A3017,Kabir Singh,Email Frontline,1,2499.0
+2025-04,CANCEL,Order Cancellation,A3011,Rohit Gill,Chat Frontline,1,2374.0
+2025-04,PRICE-ADJ,Price or Coupon Adjustment,A3033,Vikram Banerjee,Billing,1,2374.0
+2025-04,WTY-BUYBACK,Warranty Buy-back,A3028,Sameer Kapoor,Logistics,1,2374.0
+2025-04,WTY-BUYBACK,Warranty Buy-back,A3022,Daniel Arora,Email Frontline,1,2249.0
+2025-04,DUP-PAYMENT,Duplicate Payment,A3001,Suresh Kaur,Chat Frontline,2,2199.0
+2025-04,CANCEL,Order Cancellation,A3009,Sukhwinder Singh,Chat Frontline,1,1999.0
+2025-04,DOA-REPL,Dead on Arrival (Replacement),A3013,Rohit Nair,Chat Frontline,1,1799.0
+2025-04,GW-OTHER,Goodwill / Other,A3005,Payal Bhatia,Chat Frontline,1,1799.0
+2025-04,GW-OTHER,Goodwill / Other,A3020,Aadhya Singh,Email Frontline,1,1799.0
+2025-04,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,1,1699.0
+2025-04,RETURN-QC-OK,Return Accepted (QC Passed),A3030,Aishwarya Trivedi,Logistics,1,1439.0
+2025-04,CANCEL,Order Cancellation,A3033,Vikram Banerjee,Billing,1,1400.0
+2025-04,CANCEL,Order Cancellation,A3035,Dev Kulkarni,Billing,1,1349.0
+2025-04,DUP-PAYMENT,Duplicate Payment,A3020,Aadhya Singh,Email Frontline,1,1000.0
+2025-04,CANCEL,Order Cancellation,A3030,Aishwarya Trivedi,Logistics,1,800.0
+2025-04,GW-OTHER,Goodwill / Other,A3031,Zaid Desai,Logistics,1,800.0
+2025-04,RETURN-QC-OK,Return Accepted (QC Passed),A3028,Sameer Kapoor,Logistics,1,500.0
+2025-04,CANCEL,Order Cancellation,A3006,Varun Bhatt,Chat Frontline,1,475.0
+2025-04,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,1,144.0
+2025-05,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,6,20801.0
+2025-05,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,4,16994.0
+2025-05,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,5,14987.0
+2025-05,PRICE-ADJ,Price or Coupon Adjustment,A3035,Dev Kulkarni,Billing,3,13423.0
+2025-05,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,4,11239.0
+2025-05,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,5,10880.0
+2025-05,CANCEL,Order Cancellation,A3026,Aadhya Deshpande,Voice Frontline,4,9818.0
+2025-05,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,4,9797.0
+2025-05,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,3,9302.0
+2025-05,PRICE-ADJ,Price or Coupon Adjustment,A3032,Sneha Bansal,Billing,2,7598.0
+2025-05,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,4,7198.0
+2025-05,WTY-BUYBACK,Warranty Buy-back,A3028,Sameer Kapoor,Logistics,1,6499.0
+2025-05,CANCEL,Order Cancellation,A3008,Meera Malhotra,Chat Frontline,1,6174.0
+2025-05,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,1,5849.0
+2025-05,GW-OTHER,Goodwill / Other,A3018,Krishna Bhatt,Email Frontline,1,5699.0
+2025-05,WTY-BUYBACK,Warranty Buy-back,A3027,Priya Agarwal,Logistics,1,5399.0
+2025-05,DUP-PAYMENT,Duplicate Payment,A3008,Meera Malhotra,Chat Frontline,1,5199.0
+2025-05,CANCEL,Order Cancellation,A3014,Anjali D'Souza,Chat Frontline,1,4749.0
+2025-05,GW-OTHER,Goodwill / Other,A3017,Kabir Singh,Email Frontline,2,3698.0
+2025-05,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,3,3449.0
+2025-05,CANCEL,Order Cancellation,A3023,Ritika Gaikwad,Voice Frontline,1,3324.0
+2025-05,RETURN-QC-OK,Return Accepted (QC Passed),A3022,Daniel Arora,Email Frontline,1,3087.0
+2025-05,GW-OTHER,Goodwill / Other,A3006,Varun Bhatt,Chat Frontline,1,2499.0
+2025-05,RETURN-QC-OK,Return Accepted (QC Passed),A3032,Sneha Bansal,Billing,1,2374.0
+2025-05,PRICE-ADJ,Price or Coupon Adjustment,A3033,Vikram Banerjee,Billing,1,2249.0
+2025-05,DUP-PAYMENT,Duplicate Payment,A3023,Ritika Gaikwad,Voice Frontline,1,1999.0
+2025-05,WTY-BUYBACK,Warranty Buy-back,A3012,Lakshmi Srivastava,Chat Frontline,1,1999.0
+2025-05,WTY-BUYBACK,Warranty Buy-back,A3039,Reyansh Mishra,Escalations & Warranty,1,1899.0
+2025-05,CANCEL,Order Cancellation,A3030,Aishwarya Trivedi,Logistics,1,1799.0
+2025-05,RETURN-QC-OK,Return Accepted (QC Passed),A3030,Aishwarya Trivedi,Logistics,1,1799.0
+2025-05,WTY-BUYBACK,Warranty Buy-back,A3026,Aadhya Deshpande,Voice Frontline,1,1599.0
+2025-05,GW-OTHER,Goodwill / Other,A3012,Lakshmi Srivastava,Chat Frontline,1,1529.0
+2025-05,WTY-BUYBACK,Warranty Buy-back,A3001,Suresh Kaur,Chat Frontline,1,1439.0
+2025-05,GW-OTHER,Goodwill / Other,A3032,Sneha Bansal,Billing,2,1425.0
+2025-05,GW-OTHER,Goodwill / Other,A3043,Nikhil Gupta,Escalations & Warranty,1,1300.0
+2025-05,CANCEL,Order Cancellation,A3028,Sameer Kapoor,Logistics,1,1299.0
+2025-05,DOA-REPL,Dead on Arrival (Replacement),A3005,Payal Bhatia,Chat Frontline,1,1299.0
+2025-05,GW-OTHER,Goodwill / Other,A3011,Rohit Gill,Chat Frontline,1,1170.0
+2025-05,LOST-TRANSIT,Lost or Undelivered,A3031,Zaid Desai,Logistics,1,780.0
+2025-05,GW-OTHER,Goodwill / Other,A3015,Sameer Jadhav,Chat Frontline,1,750.0
+2025-05,GW-OTHER,Goodwill / Other,A3028,Sameer Kapoor,Logistics,1,720.0
+2025-05,GW-OTHER,Goodwill / Other,A3020,Aadhya Singh,Email Frontline,1,630.0
+2025-05,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,2,404.0
+2025-05,DOA-REPL,Dead on Arrival (Replacement),A3030,Aishwarya Trivedi,Logistics,1,400.0
+2025-05,CANCEL,Order Cancellation,A3007,Abhishek Gupta,Chat Frontline,1,375.0
+2025-05,DUP-PAYMENT,Duplicate Payment,A3026,Aadhya Deshpande,Voice Frontline,1,285.0
+2025-05,GW-OTHER,Goodwill / Other,A3014,Anjali D'Souza,Chat Frontline,1,160.0
+2025-05,GW-OTHER,Goodwill / Other,A3029,Rajat Mukherjee,Logistics,1,120.0
+2025-06,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,8,26067.0
+2025-06,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,4,15496.0
+2025-06,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,3,14308.0
+2025-06,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,3,13877.0
+2025-06,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,5,13171.0
+2025-06,WTY-BUYBACK,Warranty Buy-back,A3030,Aishwarya Trivedi,Logistics,1,10398.0
+2025-06,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,3,8597.0
+2025-06,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,2,7498.0
+2025-06,DOA-REPL,Dead on Arrival (Replacement),A3027,Priya Agarwal,Logistics,2,7224.0
+2025-06,GW-OTHER,Goodwill / Other,A3017,Kabir Singh,Email Frontline,1,6999.0
+2025-06,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,4,6728.0
+2025-06,DOA-REPL,Dead on Arrival (Replacement),A3001,Suresh Kaur,Chat Frontline,1,6649.0
+2025-06,CANCEL,Order Cancellation,A3001,Suresh Kaur,Chat Frontline,1,6499.0
+2025-06,DUP-PAYMENT,Duplicate Payment,A3038,Ankit Dhillon,Returns Desk,1,6499.0
+2025-06,GW-OTHER,Goodwill / Other,A3028,Sameer Kapoor,Logistics,2,6186.0
+2025-06,DUP-PAYMENT,Duplicate Payment,A3002,Steven Ansari,Chat Frontline,1,6174.0
+2025-06,WTY-BUYBACK,Warranty Buy-back,A3028,Sameer Kapoor,Logistics,1,5599.0
+2025-06,CANCEL,Order Cancellation,A3004,Geeta Dutta,Chat Frontline,1,5524.0
+2025-06,DUP-PAYMENT,Duplicate Payment,A3020,Aadhya Singh,Email Frontline,1,5199.0
+2025-06,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,3,5169.0
+2025-06,WTY-BUYBACK,Warranty Buy-back,A3044,Arjun Kumar,Escalations & Warranty,1,4499.0
+2025-06,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,2,4498.0
+2025-06,GW-OTHER,Goodwill / Other,A3018,Krishna Bhatt,Email Frontline,2,4498.0
+2025-06,GW-OTHER,Goodwill / Other,A3020,Aadhya Singh,Email Frontline,1,3999.0
+2025-06,GW-OTHER,Goodwill / Other,A3012,Lakshmi Srivastava,Chat Frontline,2,3798.0
+2025-06,RETURN-QC-OK,Return Accepted (QC Passed),A3035,Dev Kulkarni,Billing,2,3598.0
+2025-06,GW-OTHER,Goodwill / Other,A3005,Payal Bhatia,Chat Frontline,1,3238.0
+2025-06,DUP-PAYMENT,Duplicate Payment,A3014,Anjali D'Souza,Chat Frontline,1,2974.0
+2025-06,CANCEL,Order Cancellation,A3010,Tenzin Mathew,Chat Frontline,1,2499.0
+2025-06,DOA-REPL,Dead on Arrival (Replacement),A3018,Krishna Bhatt,Email Frontline,1,2499.0
+2025-06,PRICE-ADJ,Price or Coupon Adjustment,A3033,Vikram Banerjee,Billing,1,2499.0
+2025-06,WTY-BUYBACK,Warranty Buy-back,A3027,Priya Agarwal,Logistics,1,2499.0
+2025-06,RETURN-QC-OK,Return Accepted (QC Passed),A3031,Zaid Desai,Logistics,1,2374.0
+2025-06,RETURN-QC-OK,Return Accepted (QC Passed),A3032,Sneha Bansal,Billing,1,2374.0
+2025-06,DOA-REPL,Dead on Arrival (Replacement),A3029,Rajat Mukherjee,Logistics,1,2124.0
+2025-06,CANCEL,Order Cancellation,A3011,Rohit Gill,Chat Frontline,1,1999.0
+2025-06,PRICE-ADJ,Price or Coupon Adjustment,A3011,Rohit Gill,Chat Frontline,1,1999.0
+2025-06,RETURN-QC-OK,Return Accepted (QC Passed),A3028,Sameer Kapoor,Logistics,1,1999.0
+2025-06,DOA-REPL,Dead on Arrival (Replacement),A3030,Aishwarya Trivedi,Logistics,1,1799.0
+2025-06,GW-OTHER,Goodwill / Other,A3022,Daniel Arora,Email Frontline,1,1799.0
+2025-06,RETURN-QC-OK,Return Accepted (QC Passed),A3012,Lakshmi Srivastava,Chat Frontline,1,1799.0
+2025-06,GW-OTHER,Goodwill / Other,A3040,Thomas Jadhav,Escalations & Warranty,1,1699.0
+2025-06,DOA-REPL,Dead on Arrival (Replacement),A3044,Arjun Kumar,Escalations & Warranty,1,1599.0
+2025-06,LOST-TRANSIT,Lost or Undelivered,A3009,Sukhwinder Singh,Chat Frontline,1,1499.0
+2025-06,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,1,1424.0
+2025-06,PRICE-ADJ,Price or Coupon Adjustment,A3037,Manish Iyer,Returns Desk,1,1349.0
+2025-06,CANCEL,Order Cancellation,A3023,Ritika Gaikwad,Voice Frontline,1,1300.0
+2025-06,GW-OTHER,Goodwill / Other,A3031,Zaid Desai,Logistics,1,1299.0
+2025-06,PRICE-ADJ,Price or Coupon Adjustment,A3034,Tanvi Rathore,Billing,1,1299.0
+2025-06,CANCEL,Order Cancellation,A3006,Varun Bhatt,Chat Frontline,1,1274.0
+2025-06,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,1,1169.0
+2025-06,WTY-BUYBACK,Warranty Buy-back,A3003,Komal Singh,Chat Frontline,1,1104.0
+2025-06,GW-OTHER,Goodwill / Other,A3002,Steven Ansari,Chat Frontline,1,617.0
+2025-06,CANCEL,Order Cancellation,A3020,Aadhya Singh,Email Frontline,1,612.0
+2025-06,CANCEL,Order Cancellation,A3026,Aadhya Deshpande,Voice Frontline,1,200.0
+2025-06,RETURN-QC-OK,Return Accepted (QC Passed),A3027,Priya Agarwal,Logistics,1,200.0
+2025-07,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,6,18170.0
+2025-07,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,5,16255.0
+2025-07,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,4,15512.0
+2025-07,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,5,15176.0
+2025-07,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,3,15022.0
+2025-07,GW-OTHER,Goodwill / Other,A3027,Priya Agarwal,Logistics,2,14707.0
+2025-07,GW-OTHER,Goodwill / Other,A3028,Sameer Kapoor,Logistics,3,13747.0
+2025-07,CANCEL,Order Cancellation,A3013,Rohit Nair,Chat Frontline,2,13102.0
+2025-07,GW-OTHER,Goodwill / Other,A3029,Rajat Mukherjee,Logistics,1,12998.0
+2025-07,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,3,9643.0
+2025-07,GW-OTHER,Goodwill / Other,A3010,Tenzin Mathew,Chat Frontline,2,8173.0
+2025-07,GW-OTHER,Goodwill / Other,A3032,Sneha Bansal,Billing,4,8092.0
+2025-07,RETURN-QC-OK,Return Accepted (QC Passed),A3035,Dev Kulkarni,Billing,2,7448.0
+2025-07,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,3,7421.0
+2025-07,LOST-TRANSIT,Lost or Undelivered,A3030,Aishwarya Trivedi,Logistics,2,7349.0
+2025-07,CANCEL,Order Cancellation,A3004,Geeta Dutta,Chat Frontline,2,7218.0
+2025-07,CANCEL,Order Cancellation,A3029,Rajat Mukherjee,Logistics,2,7123.0
+2025-07,DOA-REPL,Dead on Arrival (Replacement),A3044,Arjun Kumar,Escalations & Warranty,1,6999.0
+2025-07,PRICE-ADJ,Price or Coupon Adjustment,A3035,Dev Kulkarni,Billing,2,6998.0
+2025-07,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,1,6499.0
+2025-07,RETURN-QC-OK,Return Accepted (QC Passed),A3030,Aishwarya Trivedi,Logistics,1,6499.0
+2025-07,GW-OTHER,Goodwill / Other,A3044,Arjun Kumar,Escalations & Warranty,1,6174.0
+2025-07,GW-OTHER,Goodwill / Other,A3026,Aadhya Deshpande,Voice Frontline,3,6172.0
+2025-07,WTY-BUYBACK,Warranty Buy-back,A3041,Mohammed Mehta,Escalations & Warranty,1,5849.0
+2025-07,GW-OTHER,Goodwill / Other,A3016,Thomas Kumar,Email Frontline,1,5599.0
+2025-07,CANCEL,Order Cancellation,A3030,Aishwarya Trivedi,Logistics,1,5399.0
+2025-07,DUP-PAYMENT,Duplicate Payment,A3015,Sameer Jadhav,Chat Frontline,2,5299.0
+2025-07,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,4,5123.0
+2025-07,CANCEL,Order Cancellation,A3001,Suresh Kaur,Chat Frontline,1,4999.0
+2025-07,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,3,4583.0
+2025-07,DOA-REPL,Dead on Arrival (Replacement),A3010,Tenzin Mathew,Chat Frontline,1,4499.0
+2025-07,DUP-PAYMENT,Duplicate Payment,A3009,Sukhwinder Singh,Chat Frontline,2,4499.0
+2025-07,GW-OTHER,Goodwill / Other,A3020,Aadhya Singh,Email Frontline,1,4499.0
+2025-07,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,4,4016.0
+2025-07,GW-OTHER,Goodwill / Other,A3031,Zaid Desai,Logistics,2,3998.0
+2025-07,DOA-REPL,Dead on Arrival (Replacement),A3029,Rajat Mukherjee,Logistics,1,3499.0
+2025-07,GW-OTHER,Goodwill / Other,A3022,Daniel Arora,Email Frontline,1,3499.0
+2025-07,PRICE-ADJ,Price or Coupon Adjustment,A3033,Vikram Banerjee,Billing,1,3499.0
+2025-07,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,2,3289.0
+2025-07,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,1,2974.0
+2025-07,GW-OTHER,Goodwill / Other,A3024,Amit Deshpande,Voice Frontline,1,2799.0
+2025-07,CANCEL,Order Cancellation,A3027,Priya Agarwal,Logistics,1,2499.0
+2025-07,GW-OTHER,Goodwill / Other,A3014,Anjali D'Souza,Chat Frontline,1,2499.0
+2025-07,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,1,2499.0
+2025-07,GW-OTHER,Goodwill / Other,A3039,Reyansh Mishra,Escalations & Warranty,1,2499.0
+2025-07,LOST-TRANSIT,Lost or Undelivered,A3031,Zaid Desai,Logistics,1,2499.0
+2025-07,WTY-BUYBACK,Warranty Buy-back,A3017,Kabir Singh,Email Frontline,1,2374.0
+2025-07,GW-OTHER,Goodwill / Other,A3018,Krishna Bhatt,Email Frontline,1,2250.0
+2025-07,CANCEL,Order Cancellation,A3021,Meera Mathew,Email Frontline,1,2124.0
+2025-07,DUP-PAYMENT,Duplicate Payment,A3005,Payal Bhatia,Chat Frontline,1,2124.0
+2025-07,GW-OTHER,Goodwill / Other,A3013,Rohit Nair,Chat Frontline,2,2048.0
+2025-07,DUP-PAYMENT,Duplicate Payment,A3012,Lakshmi Srivastava,Chat Frontline,1,1999.0
+2025-07,LOST-TRANSIT,Lost or Undelivered,A3014,Anjali D'Souza,Chat Frontline,1,1999.0
+2025-07,DOA-REPL,Dead on Arrival (Replacement),A3030,Aishwarya Trivedi,Logistics,2,1967.0
+2025-07,CANCEL,Order Cancellation,A3018,Krishna Bhatt,Email Frontline,1,1899.0
+2025-07,CANCEL,Order Cancellation,A3009,Sukhwinder Singh,Chat Frontline,1,1799.0
+2025-07,CANCEL,Order Cancellation,A3002,Steven Ansari,Chat Frontline,1,1299.0
+2025-07,CANCEL,Order Cancellation,A3035,Dev Kulkarni,Billing,1,1190.0
+2025-07,PRICE-ADJ,Price or Coupon Adjustment,A3002,Steven Ansari,Chat Frontline,1,1187.0
+2025-07,CANCEL,Order Cancellation,A3016,Thomas Kumar,Email Frontline,1,1105.0
+2025-07,WTY-BUYBACK,Warranty Buy-back,A3030,Aishwarya Trivedi,Logistics,1,1104.0
+2025-07,DOA-REPL,Dead on Arrival (Replacement),A3014,Anjali D'Souza,Chat Frontline,1,945.0
+2025-07,RETURN-QC-OK,Return Accepted (QC Passed),A3010,Tenzin Mathew,Chat Frontline,1,780.0
+2025-07,CANCEL,Order Cancellation,A3037,Manish Iyer,Returns Desk,1,650.0
+2025-07,LOST-TRANSIT,Lost or Undelivered,A3027,Priya Agarwal,Logistics,1,450.0
+2025-07,CANCEL,Order Cancellation,A3026,Aadhya Deshpande,Voice Frontline,1,300.0
+2025-07,CANCEL,Order Cancellation,A3032,Sneha Bansal,Billing,1,285.0
+2025-07,WTY-BUYBACK,Warranty Buy-back,A3001,Suresh Kaur,Chat Frontline,1,195.0
+2025-08,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,10,29528.0
+2025-08,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,8,23885.0
+2025-08,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,6,21520.0
+2025-08,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,5,17445.0
+2025-08,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,6,16496.0
+2025-08,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,7,15915.0
+2025-08,GW-OTHER,Goodwill / Other,A3039,Reyansh Mishra,Escalations & Warranty,3,15197.0
+2025-08,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,5,14086.0
+2025-08,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,5,13127.0
+2025-08,GW-OTHER,Goodwill / Other,A3007,Abhishek Gupta,Chat Frontline,3,12497.0
+2025-08,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,3,9717.0
+2025-08,DOA-REPL,Dead on Arrival (Replacement),A3030,Aishwarya Trivedi,Logistics,2,9473.0
+2025-08,LOST-TRANSIT,Lost or Undelivered,A3030,Aishwarya Trivedi,Logistics,2,8848.0
+2025-08,GW-OTHER,Goodwill / Other,A3014,Anjali D'Souza,Chat Frontline,2,7848.0
+2025-08,CANCEL,Order Cancellation,A3011,Rohit Gill,Chat Frontline,1,6499.0
+2025-08,CANCEL,Order Cancellation,A3017,Kabir Singh,Email Frontline,1,6499.0
+2025-08,CANCEL,Order Cancellation,A3030,Aishwarya Trivedi,Logistics,1,6499.0
+2025-08,LOST-TRANSIT,Lost or Undelivered,A3029,Rajat Mukherjee,Logistics,1,6499.0
+2025-08,CANCEL,Order Cancellation,A3001,Suresh Kaur,Chat Frontline,1,6299.0
+2025-08,DOA-REPL,Dead on Arrival (Replacement),A3042,Swati Bhatia,Escalations & Warranty,1,5999.0
+2025-08,CANCEL,Order Cancellation,A3026,Aadhya Deshpande,Voice Frontline,2,5998.0
+2025-08,CANCEL,Order Cancellation,A3018,Krishna Bhatt,Email Frontline,2,5714.0
+2025-08,GW-OTHER,Goodwill / Other,A3029,Rajat Mukherjee,Logistics,2,5598.0
+2025-08,GW-OTHER,Goodwill / Other,A3025,Komal Malhotra,Voice Frontline,2,5473.0
+2025-08,RETURN-QC-OK,Return Accepted (QC Passed),A3028,Sameer Kapoor,Logistics,2,5298.0
+2025-08,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,2,5224.0
+2025-08,GW-OTHER,Goodwill / Other,A3017,Kabir Singh,Email Frontline,2,5118.0
+2025-08,DOA-REPL,Dead on Arrival (Replacement),A3031,Zaid Desai,Logistics,1,4999.0
+2025-08,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,3,4623.0
+2025-08,GW-OTHER,Goodwill / Other,A3005,Payal Bhatia,Chat Frontline,2,4309.0
+2025-08,GW-OTHER,Goodwill / Other,A3006,Varun Bhatt,Chat Frontline,2,4173.0
+2025-08,CANCEL,Order Cancellation,A3032,Sneha Bansal,Billing,1,3499.0
+2025-08,DOA-REPL,Dead on Arrival (Replacement),A3044,Arjun Kumar,Escalations & Warranty,1,3499.0
+2025-08,LOST-TRANSIT,Lost or Undelivered,A3027,Priya Agarwal,Logistics,1,3499.0
+2025-08,WTY-BUYBACK,Warranty Buy-back,A3036,Ritika D'Souza,Returns Desk,1,3499.0
+2025-08,DUP-PAYMENT,Duplicate Payment,A3022,Daniel Arora,Email Frontline,1,3324.0
+2025-08,WTY-BUYBACK,Warranty Buy-back,A3030,Aishwarya Trivedi,Logistics,1,3324.0
+2025-08,RETURN-QC-OK,Return Accepted (QC Passed),A3034,Tanvi Rathore,Billing,3,3229.0
+2025-08,GW-OTHER,Goodwill / Other,A3010,Tenzin Mathew,Chat Frontline,1,3149.0
+2025-08,PRICE-ADJ,Price or Coupon Adjustment,A3004,Geeta Dutta,Chat Frontline,1,2878.0
+2025-08,CANCEL,Order Cancellation,A3035,Dev Kulkarni,Billing,1,2499.0
+2025-08,PRICE-ADJ,Price or Coupon Adjustment,A3035,Dev Kulkarni,Billing,1,2499.0
+2025-08,WTY-BUYBACK,Warranty Buy-back,A3041,Mohammed Mehta,Escalations & Warranty,1,2499.0
+2025-08,CANCEL,Order Cancellation,A3014,Anjali D'Souza,Chat Frontline,1,2249.0
+2025-08,DOA-REPL,Dead on Arrival (Replacement),A3040,Thomas Jadhav,Escalations & Warranty,1,1999.0
+2025-08,GW-OTHER,Goodwill / Other,A3022,Daniel Arora,Email Frontline,1,1999.0
+2025-08,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,1,1999.0
+2025-08,WTY-BUYBACK,Warranty Buy-back,A3008,Meera Malhotra,Chat Frontline,1,1799.0
+2025-08,CANCEL,Order Cancellation,A3034,Tanvi Rathore,Billing,1,1750.0
+2025-08,DOA-REPL,Dead on Arrival (Replacement),A3007,Abhishek Gupta,Chat Frontline,1,1439.0
+2025-08,GW-OTHER,Goodwill / Other,A3012,Lakshmi Srivastava,Chat Frontline,1,1400.0
+2025-08,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,2,1370.0
+2025-08,DOA-REPL,Dead on Arrival (Replacement),A3018,Krishna Bhatt,Email Frontline,1,1169.0
+2025-08,GW-OTHER,Goodwill / Other,A3032,Sneha Bansal,Billing,1,810.0
+2025-08,RETURN-QC-OK,Return Accepted (QC Passed),A3035,Dev Kulkarni,Billing,1,700.0
+2025-08,LOST-TRANSIT,Lost or Undelivered,A3031,Zaid Desai,Logistics,1,617.0
+2025-08,RETURN-QC-OK,Return Accepted (QC Passed),A3032,Sneha Bansal,Billing,1,500.0
+2025-08,DUP-PAYMENT,Duplicate Payment,A3018,Krishna Bhatt,Email Frontline,1,221.0
+2025-09,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,7,40816.0
+2025-09,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,8,32542.0
+2025-09,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,6,26294.0
+2025-09,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,4,19296.0
+2025-09,GW-OTHER,Goodwill / Other,A3028,Sameer Kapoor,Logistics,4,14471.0
+2025-09,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,6,14385.0
+2025-09,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,7,14279.0
+2025-09,DOA-REPL,Dead on Arrival (Replacement),A3039,Reyansh Mishra,Escalations & Warranty,3,14148.0
+2025-09,GW-OTHER,Goodwill / Other,A3039,Reyansh Mishra,Escalations & Warranty,3,13997.0
+2025-09,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,9,13140.0
+2025-09,GW-OTHER,Goodwill / Other,A3029,Rajat Mukherjee,Logistics,2,12797.0
+2025-09,GW-OTHER,Goodwill / Other,A3032,Sneha Bansal,Billing,4,12296.0
+2025-09,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,7,11746.0
+2025-09,CANCEL,Order Cancellation,A3024,Amit Deshpande,Voice Frontline,1,11198.0
+2025-09,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,4,11047.0
+2025-09,GW-OTHER,Goodwill / Other,A3018,Krishna Bhatt,Email Frontline,4,10352.0
+2025-09,GW-OTHER,Goodwill / Other,A3026,Aadhya Deshpande,Voice Frontline,3,10113.0
+2025-09,GW-OTHER,Goodwill / Other,A3015,Sameer Jadhav,Chat Frontline,3,8403.0
+2025-09,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,3,8247.0
+2025-09,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,2,7999.0
+2025-09,DOA-REPL,Dead on Arrival (Replacement),A3027,Priya Agarwal,Logistics,2,7973.0
+2025-09,GW-OTHER,Goodwill / Other,A3003,Komal Singh,Chat Frontline,2,7973.0
+2025-09,GW-OTHER,Goodwill / Other,A3013,Rohit Nair,Chat Frontline,1,6999.0
+2025-09,DOA-REPL,Dead on Arrival (Replacement),A3031,Zaid Desai,Logistics,1,6499.0
+2025-09,WTY-BUYBACK,Warranty Buy-back,A3030,Aishwarya Trivedi,Logistics,1,6499.0
+2025-09,CANCEL,Order Cancellation,A3005,Payal Bhatia,Chat Frontline,2,6471.0
+2025-09,DOA-REPL,Dead on Arrival (Replacement),A3018,Krishna Bhatt,Email Frontline,2,6438.0
+2025-09,DOA-REPL,Dead on Arrival (Replacement),A3036,Ritika D'Souza,Returns Desk,1,6174.0
+2025-09,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,5,6109.0
+2025-09,LOST-TRANSIT,Lost or Undelivered,A3018,Krishna Bhatt,Email Frontline,1,5999.0
+2025-09,PRICE-ADJ,Price or Coupon Adjustment,A3013,Rohit Nair,Chat Frontline,1,5524.0
+2025-09,CANCEL,Order Cancellation,A3018,Krishna Bhatt,Email Frontline,2,5473.0
+2025-09,CANCEL,Order Cancellation,A3006,Varun Bhatt,Chat Frontline,1,5199.0
+2025-09,RETURN-QC-OK,Return Accepted (QC Passed),A3030,Aishwarya Trivedi,Logistics,3,5149.0
+2025-09,WTY-BUYBACK,Warranty Buy-back,A3043,Nikhil Gupta,Escalations & Warranty,1,4999.0
+2025-09,GW-OTHER,Goodwill / Other,A3025,Komal Malhotra,Voice Frontline,2,4503.0
+2025-09,PRICE-ADJ,Price or Coupon Adjustment,A3035,Dev Kulkarni,Billing,1,3999.0
+2025-09,GW-OTHER,Goodwill / Other,A3031,Zaid Desai,Logistics,2,3798.0
+2025-09,GW-OTHER,Goodwill / Other,A3016,Thomas Kumar,Email Frontline,2,3598.0
+2025-09,LOST-TRANSIT,Lost or Undelivered,A3030,Aishwarya Trivedi,Logistics,1,3499.0
+2025-09,RETURN-QC-OK,Return Accepted (QC Passed),A3028,Sameer Kapoor,Logistics,1,3499.0
+2025-09,WTY-BUYBACK,Warranty Buy-back,A3015,Sameer Jadhav,Chat Frontline,1,3499.0
+2025-09,CANCEL,Order Cancellation,A3008,Meera Malhotra,Chat Frontline,2,3466.0
+2025-09,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,2,3199.0
+2025-09,DOA-REPL,Dead on Arrival (Replacement),A3010,Tenzin Mathew,Chat Frontline,1,2974.0
+2025-09,GW-OTHER,Goodwill / Other,A3014,Anjali D'Souza,Chat Frontline,1,2974.0
+2025-09,CANCEL,Order Cancellation,A3007,Abhishek Gupta,Chat Frontline,1,2799.0
+2025-09,GW-OTHER,Goodwill / Other,A3017,Kabir Singh,Email Frontline,1,2799.0
+2025-09,GW-OTHER,Goodwill / Other,A3027,Priya Agarwal,Logistics,1,2799.0
+2025-09,GW-OTHER,Goodwill / Other,A3006,Varun Bhatt,Chat Frontline,1,2499.0
+2025-09,LOST-TRANSIT,Lost or Undelivered,A3028,Sameer Kapoor,Logistics,1,2499.0
+2025-09,WTY-BUYBACK,Warranty Buy-back,A3026,Aadhya Deshpande,Voice Frontline,1,2499.0
+2025-09,PRICE-ADJ,Price or Coupon Adjustment,A3033,Vikram Banerjee,Billing,2,2439.0
+2025-09,CANCEL,Order Cancellation,A3034,Tanvi Rathore,Billing,1,2249.0
+2025-09,WTY-BUYBACK,Warranty Buy-back,A3031,Zaid Desai,Logistics,1,2249.0
+2025-09,GW-OTHER,Goodwill / Other,A3020,Aadhya Singh,Email Frontline,1,1999.0
+2025-09,PRICE-ADJ,Price or Coupon Adjustment,A3034,Tanvi Rathore,Billing,1,1999.0
+2025-09,CANCEL,Order Cancellation,A3015,Sameer Jadhav,Chat Frontline,1,1750.0
+2025-09,DUP-PAYMENT,Duplicate Payment,A3006,Varun Bhatt,Chat Frontline,1,1499.0
+2025-09,CANCEL,Order Cancellation,A3004,Geeta Dutta,Chat Frontline,1,1439.0
+2025-09,DUP-PAYMENT,Duplicate Payment,A3026,Aadhya Deshpande,Voice Frontline,1,1439.0
+2025-09,GW-OTHER,Goodwill / Other,A3002,Steven Ansari,Chat Frontline,1,1234.0
+2025-09,GW-OTHER,Goodwill / Other,A3009,Sukhwinder Singh,Chat Frontline,1,1234.0
+2025-09,DOA-REPL,Dead on Arrival (Replacement),A3040,Thomas Jadhav,Escalations & Warranty,1,1187.0
+2025-09,DUP-PAYMENT,Duplicate Payment,A3022,Daniel Arora,Email Frontline,1,1039.0
+2025-09,PRICE-ADJ,Price or Coupon Adjustment,A3032,Sneha Bansal,Billing,1,750.0
+2025-09,GW-OTHER,Goodwill / Other,A3005,Payal Bhatia,Chat Frontline,1,712.0
+2025-09,RETURN-QC-OK,Return Accepted (QC Passed),A3032,Sneha Bansal,Billing,1,700.0
+2025-09,WTY-BUYBACK,Warranty Buy-back,A3024,Amit Deshpande,Voice Frontline,1,700.0
+2025-09,RETURN-QC-OK,Return Accepted (QC Passed),A3035,Dev Kulkarni,Billing,1,617.0
+2025-09,CANCEL,Order Cancellation,A3013,Rohit Nair,Chat Frontline,1,342.0
+2025-09,CANCEL,Order Cancellation,A3010,Tenzin Mathew,Chat Frontline,1,319.0
+2025-09,CANCEL,Order Cancellation,A3021,Meera Mathew,Email Frontline,1,280.0
+2025-09,GW-OTHER,Goodwill / Other,A3004,Geeta Dutta,Chat Frontline,1,162.0
+2025-10,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,15,46184.0
+2025-10,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,14,44648.0
+2025-10,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,7,26793.0
+2025-10,GW-OTHER,Goodwill / Other,A3039,Reyansh Mishra,Escalations & Warranty,5,24895.0
+2025-10,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,7,24270.0
+2025-10,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,6,23545.0
+2025-10,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,11,21013.0
+2025-10,GW-OTHER,Goodwill / Other,A3032,Sneha Bansal,Billing,7,20605.0
+2025-10,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,3,18396.0
+2025-10,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,5,15753.0
+2025-10,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,6,15264.0
+2025-10,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,8,14014.0
+2025-10,GW-OTHER,Goodwill / Other,A3026,Aadhya Deshpande,Voice Frontline,2,13517.0
+2025-10,GW-OTHER,Goodwill / Other,A3023,Ritika Gaikwad,Voice Frontline,2,12397.0
+2025-10,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,5,12124.0
+2025-10,GW-OTHER,Goodwill / Other,A3002,Steven Ansari,Chat Frontline,3,11799.0
+2025-10,GW-OTHER,Goodwill / Other,A3028,Sameer Kapoor,Logistics,3,11623.0
+2025-10,GW-OTHER,Goodwill / Other,A3011,Rohit Gill,Chat Frontline,3,10848.0
+2025-10,DOA-REPL,Dead on Arrival (Replacement),A3030,Aishwarya Trivedi,Logistics,3,10008.0
+2025-10,GW-OTHER,Goodwill / Other,A3001,Suresh Kaur,Chat Frontline,2,9123.0
+2025-10,GW-OTHER,Goodwill / Other,A3018,Krishna Bhatt,Email Frontline,3,8223.0
+2025-10,GW-OTHER,Goodwill / Other,A3005,Payal Bhatia,Chat Frontline,2,8098.0
+2025-10,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,4,8029.0
+2025-10,GW-OTHER,Goodwill / Other,A3006,Varun Bhatt,Chat Frontline,1,6998.0
+2025-10,WTY-BUYBACK,Warranty Buy-back,A3010,Tenzin Mathew,Chat Frontline,1,6649.0
+2025-10,GW-OTHER,Goodwill / Other,A3010,Tenzin Mathew,Chat Frontline,1,6648.0
+2025-10,CANCEL,Order Cancellation,A3026,Aadhya Deshpande,Voice Frontline,1,6499.0
+2025-10,CANCEL,Order Cancellation,A3017,Kabir Singh,Email Frontline,2,6473.0
+2025-10,GW-OTHER,Goodwill / Other,A3031,Zaid Desai,Logistics,2,6473.0
+2025-10,PRICE-ADJ,Price or Coupon Adjustment,A3016,Thomas Kumar,Email Frontline,1,6174.0
+2025-10,GW-OTHER,Goodwill / Other,A3022,Daniel Arora,Email Frontline,1,5999.0
+2025-10,GW-OTHER,Goodwill / Other,A3012,Lakshmi Srivastava,Chat Frontline,1,5949.0
+2025-10,CANCEL,Order Cancellation,A3020,Aadhya Singh,Email Frontline,1,5399.0
+2025-10,DUP-PAYMENT,Duplicate Payment,A3018,Krishna Bhatt,Email Frontline,3,5197.0
+2025-10,GW-OTHER,Goodwill / Other,A3029,Rajat Mukherjee,Logistics,2,5173.0
+2025-10,GW-OTHER,Goodwill / Other,A3017,Kabir Singh,Email Frontline,2,5148.0
+2025-10,GW-OTHER,Goodwill / Other,A3009,Sukhwinder Singh,Chat Frontline,2,4899.0
+2025-10,DOA-REPL,Dead on Arrival (Replacement),A3003,Komal Singh,Chat Frontline,1,4499.0
+2025-10,GW-OTHER,Goodwill / Other,A3021,Meera Mathew,Email Frontline,1,3999.0
+2025-10,WTY-BUYBACK,Warranty Buy-back,A3004,Geeta Dutta,Chat Frontline,1,3999.0
+2025-10,CANCEL,Order Cancellation,A3009,Sukhwinder Singh,Chat Frontline,2,3948.0
+2025-10,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,4,3589.0
+2025-10,GW-OTHER,Goodwill / Other,A3042,Swati Bhatia,Escalations & Warranty,1,3500.0
+2025-10,CANCEL,Order Cancellation,A3030,Aishwarya Trivedi,Logistics,1,3499.0
+2025-10,RETURN-QC-OK,Return Accepted (QC Passed),A3027,Priya Agarwal,Logistics,1,3499.0
+2025-10,WTY-BUYBACK,Warranty Buy-back,A3017,Kabir Singh,Email Frontline,1,3499.0
+2025-10,RETURN-QC-OK,Return Accepted (QC Passed),A3005,Payal Bhatia,Chat Frontline,1,3398.0
+2025-10,CANCEL,Order Cancellation,A3004,Geeta Dutta,Chat Frontline,1,3324.0
+2025-10,DOA-REPL,Dead on Arrival (Replacement),A3012,Lakshmi Srivastava,Chat Frontline,1,3324.0
+2025-10,DUP-PAYMENT,Duplicate Payment,A3005,Payal Bhatia,Chat Frontline,1,3324.0
+2025-10,CANCEL,Order Cancellation,A3011,Rohit Gill,Chat Frontline,1,3149.0
+2025-10,CANCEL,Order Cancellation,A3001,Suresh Kaur,Chat Frontline,1,2974.0
+2025-10,PRICE-ADJ,Price or Coupon Adjustment,A3006,Varun Bhatt,Chat Frontline,1,2799.0
+2025-10,CANCEL,Order Cancellation,A3008,Meera Malhotra,Chat Frontline,1,2499.0
+2025-10,LOST-TRANSIT,Lost or Undelivered,A3029,Rajat Mukherjee,Logistics,1,2499.0
+2025-10,CANCEL,Order Cancellation,A3035,Dev Kulkarni,Billing,1,2374.0
+2025-10,CANCEL,Order Cancellation,A3021,Meera Mathew,Email Frontline,1,2124.0
+2025-10,CANCEL,Order Cancellation,A3032,Sneha Bansal,Billing,1,2000.0
+2025-10,DOA-REPL,Dead on Arrival (Replacement),A3026,Aadhya Deshpande,Voice Frontline,1,1999.0
+2025-10,GW-OTHER,Goodwill / Other,A3014,Anjali D'Souza,Chat Frontline,1,1999.0
+2025-10,GW-OTHER,Goodwill / Other,A3016,Thomas Kumar,Email Frontline,1,1799.0
+2025-10,CANCEL,Order Cancellation,A3016,Thomas Kumar,Email Frontline,1,1750.0
+2025-10,DUP-PAYMENT,Duplicate Payment,A3012,Lakshmi Srivastava,Chat Frontline,1,1499.0
+2025-10,DUP-PAYMENT,Duplicate Payment,A3009,Sukhwinder Singh,Chat Frontline,1,975.0
+2025-10,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,1,900.0
+2025-10,PRICE-ADJ,Price or Coupon Adjustment,A3035,Dev Kulkarni,Billing,2,663.0
+2025-10,LOST-TRANSIT,Lost or Undelivered,A3032,Sneha Bansal,Billing,1,650.0
+2025-10,WTY-BUYBACK,Warranty Buy-back,A3018,Krishna Bhatt,Email Frontline,1,472.0
+2025-10,LOST-TRANSIT,Lost or Undelivered,A3018,Krishna Bhatt,Email Frontline,1,225.0
+2025-10,CANCEL,Order Cancellation,A3010,Tenzin Mathew,Chat Frontline,1,40.0
+2025-11,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,14,49971.0
+2025-11,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,11,35776.0
+2025-11,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,9,27391.0
+2025-11,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,8,26592.0
+2025-11,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,8,25691.0
+2025-11,DOA-REPL,Dead on Arrival (Replacement),A3030,Aishwarya Trivedi,Logistics,6,19505.0
+2025-11,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,5,19432.0
+2025-11,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,10,16997.0
+2025-11,CANCEL,Order Cancellation,A3011,Rohit Gill,Chat Frontline,3,14882.0
+2025-11,GW-OTHER,Goodwill / Other,A3018,Krishna Bhatt,Email Frontline,7,14436.0
+2025-11,DOA-REPL,Dead on Arrival (Replacement),A3016,Thomas Kumar,Email Frontline,1,13998.0
+2025-11,GW-OTHER,Goodwill / Other,A3032,Sneha Bansal,Billing,3,13282.0
+2025-11,GW-OTHER,Goodwill / Other,A3027,Priya Agarwal,Logistics,1,11398.0
+2025-11,CANCEL,Order Cancellation,A3010,Tenzin Mathew,Chat Frontline,2,11148.0
+2025-11,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,6,11046.0
+2025-11,RETURN-QC-OK,Return Accepted (QC Passed),A3033,Vikram Banerjee,Billing,2,10348.0
+2025-11,DOA-REPL,Dead on Arrival (Replacement),A3027,Priya Agarwal,Logistics,2,10273.0
+2025-11,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,3,9562.0
+2025-11,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,6,9235.0
+2025-11,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,4,9172.0
+2025-11,GW-OTHER,Goodwill / Other,A3039,Reyansh Mishra,Escalations & Warranty,3,9172.0
+2025-11,GW-OTHER,Goodwill / Other,A3042,Swati Bhatia,Escalations & Warranty,3,9164.0
+2025-11,RETURN-QC-OK,Return Accepted (QC Passed),A3030,Aishwarya Trivedi,Logistics,3,9147.0
+2025-11,GW-OTHER,Goodwill / Other,A3029,Rajat Mukherjee,Logistics,2,7499.0
+2025-11,GW-OTHER,Goodwill / Other,A3005,Payal Bhatia,Chat Frontline,2,7287.0
+2025-11,GW-OTHER,Goodwill / Other,A3026,Aadhya Deshpande,Voice Frontline,2,7269.0
+2025-11,DUP-PAYMENT,Duplicate Payment,A3016,Thomas Kumar,Email Frontline,1,6998.0
+2025-11,WTY-BUYBACK,Warranty Buy-back,A3030,Aishwarya Trivedi,Logistics,2,6973.0
+2025-11,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,5,6677.0
+2025-11,CANCEL,Order Cancellation,A3007,Abhishek Gupta,Chat Frontline,1,6499.0
+2025-11,RETURN-QC-OK,Return Accepted (QC Passed),A3032,Sneha Bansal,Billing,1,6499.0
+2025-11,DUP-PAYMENT,Duplicate Payment,A3003,Komal Singh,Chat Frontline,1,6174.0
+2025-11,GW-OTHER,Goodwill / Other,A3044,Arjun Kumar,Escalations & Warranty,1,6174.0
+2025-11,GW-OTHER,Goodwill / Other,A3006,Varun Bhatt,Chat Frontline,1,5999.0
+2025-11,PRICE-ADJ,Price or Coupon Adjustment,A3032,Sneha Bansal,Billing,1,5999.0
+2025-11,WTY-BUYBACK,Warranty Buy-back,A3039,Reyansh Mishra,Escalations & Warranty,1,5999.0
+2025-11,PRICE-ADJ,Price or Coupon Adjustment,A3034,Tanvi Rathore,Billing,1,5949.0
+2025-11,GW-OTHER,Goodwill / Other,A3015,Sameer Jadhav,Chat Frontline,2,5924.0
+2025-11,WTY-BUYBACK,Warranty Buy-back,A3036,Ritika D'Souza,Returns Desk,2,5498.0
+2025-11,GW-OTHER,Goodwill / Other,A3012,Lakshmi Srivastava,Chat Frontline,2,5298.0
+2025-11,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,3,5060.0
+2025-11,GW-OTHER,Goodwill / Other,A3002,Steven Ansari,Chat Frontline,1,4749.0
+2025-11,PRICE-ADJ,Price or Coupon Adjustment,A3035,Dev Kulkarni,Billing,2,4498.0
+2025-11,LOST-TRANSIT,Lost or Undelivered,A3030,Aishwarya Trivedi,Logistics,2,4199.0
+2025-11,DOA-REPL,Dead on Arrival (Replacement),A3029,Rajat Mukherjee,Logistics,2,4161.0
+2025-11,GW-OTHER,Goodwill / Other,A3024,Amit Deshpande,Voice Frontline,2,4024.0
+2025-11,GW-OTHER,Goodwill / Other,A3031,Zaid Desai,Logistics,2,3563.0
+2025-11,CANCEL,Order Cancellation,A3003,Komal Singh,Chat Frontline,1,3499.0
+2025-11,CANCEL,Order Cancellation,A3030,Aishwarya Trivedi,Logistics,1,3324.0
+2025-11,DUP-PAYMENT,Duplicate Payment,A3013,Rohit Nair,Chat Frontline,1,3149.0
+2025-11,WTY-BUYBACK,Warranty Buy-back,A3019,Kavya Agarwal,Email Frontline,1,3149.0
+2025-11,CANCEL,Order Cancellation,A3012,Lakshmi Srivastava,Chat Frontline,1,2974.0
+2025-11,GW-OTHER,Goodwill / Other,A3028,Sameer Kapoor,Logistics,2,2814.0
+2025-11,DOA-REPL,Dead on Arrival (Replacement),A3017,Kabir Singh,Email Frontline,1,2799.0
+2025-11,WTY-BUYBACK,Warranty Buy-back,A3015,Sameer Jadhav,Chat Frontline,1,2799.0
+2025-11,CANCEL,Order Cancellation,A3013,Rohit Nair,Chat Frontline,1,2499.0
+2025-11,DOA-REPL,Dead on Arrival (Replacement),A3037,Manish Iyer,Returns Desk,1,2499.0
+2025-11,GW-OTHER,Goodwill / Other,A3014,Anjali D'Souza,Chat Frontline,1,2499.0
+2025-11,WTY-BUYBACK,Warranty Buy-back,A3021,Meera Mathew,Email Frontline,1,2499.0
+2025-11,RETURN-QC-OK,Return Accepted (QC Passed),A3034,Tanvi Rathore,Billing,1,2374.0
+2025-11,WTY-BUYBACK,Warranty Buy-back,A3026,Aadhya Deshpande,Voice Frontline,1,1999.0
+2025-11,DUP-PAYMENT,Duplicate Payment,A3018,Krishna Bhatt,Email Frontline,1,1799.0
+2025-11,GW-OTHER,Goodwill / Other,A3013,Rohit Nair,Chat Frontline,1,1709.0
+2025-11,RETURN-QC-OK,Return Accepted (QC Passed),A3029,Rajat Mukherjee,Logistics,1,1662.0
+2025-11,GW-OTHER,Goodwill / Other,A3041,Mohammed Mehta,Escalations & Warranty,1,1439.0
+2025-11,WTY-BUYBACK,Warranty Buy-back,A3028,Sameer Kapoor,Logistics,1,1299.0
+2025-11,GW-OTHER,Goodwill / Other,A3003,Komal Singh,Chat Frontline,1,1104.0
+2025-11,DUP-PAYMENT,Duplicate Payment,A3020,Aadhya Singh,Email Frontline,1,1000.0
+2025-11,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,1,297.0
+2025-11,DOA-REPL,Dead on Arrival (Replacement),A3025,Komal Malhotra,Voice Frontline,1,212.0
+2025-12,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,8,30676.0
+2025-12,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,12,27328.0
+2025-12,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,7,22630.0
+2025-12,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,7,21586.0
+2025-12,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,8,20255.0
+2025-12,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,6,19768.0
+2025-12,GW-OTHER,Goodwill / Other,A3002,Steven Ansari,Chat Frontline,3,19597.0
+2025-12,CANCEL,Order Cancellation,A3018,Krishna Bhatt,Email Frontline,3,16952.0
+2025-12,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,6,12186.0
+2025-12,GW-OTHER,Goodwill / Other,A3032,Sneha Bansal,Billing,4,11534.0
+2025-12,CANCEL,Order Cancellation,A3028,Sameer Kapoor,Logistics,1,11198.0
+2025-12,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,7,11062.0
+2025-12,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,4,10606.0
+2025-12,GW-OTHER,Goodwill / Other,A3015,Sameer Jadhav,Chat Frontline,3,10058.0
+2025-12,DUP-PAYMENT,Duplicate Payment,A3026,Aadhya Deshpande,Voice Frontline,2,9747.0
+2025-12,GW-OTHER,Goodwill / Other,A3021,Meera Mathew,Email Frontline,2,8973.0
+2025-12,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,5,8807.0
+2025-12,GW-OTHER,Goodwill / Other,A3022,Daniel Arora,Email Frontline,3,7115.0
+2025-12,DOA-REPL,Dead on Arrival (Replacement),A3002,Steven Ansari,Chat Frontline,1,6999.0
+2025-12,CANCEL,Order Cancellation,A3026,Aadhya Deshpande,Voice Frontline,3,6922.0
+2025-12,RETURN-QC-OK,Return Accepted (QC Passed),A3028,Sameer Kapoor,Logistics,2,6649.0
+2025-12,WTY-BUYBACK,Warranty Buy-back,A3021,Meera Mathew,Email Frontline,1,6649.0
+2025-12,RETURN-QC-OK,Return Accepted (QC Passed),A3029,Rajat Mukherjee,Logistics,2,6563.0
+2025-12,GW-OTHER,Goodwill / Other,A3007,Abhishek Gupta,Chat Frontline,1,6499.0
+2025-12,GW-OTHER,Goodwill / Other,A3008,Meera Malhotra,Chat Frontline,1,6499.0
+2025-12,DOA-REPL,Dead on Arrival (Replacement),A3003,Komal Singh,Chat Frontline,1,6299.0
+2025-12,CANCEL,Order Cancellation,A3034,Tanvi Rathore,Billing,1,6174.0
+2025-12,RETURN-QC-OK,Return Accepted (QC Passed),A3032,Sneha Bansal,Billing,1,5699.0
+2025-12,GW-OTHER,Goodwill / Other,A3026,Aadhya Deshpande,Voice Frontline,3,5402.0
+2025-12,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,3,5248.0
+2025-12,RETURN-QC-OK,Return Accepted (QC Passed),A3031,Zaid Desai,Logistics,2,5217.0
+2025-12,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,2,4948.0
+2025-12,GW-OTHER,Goodwill / Other,A3009,Sukhwinder Singh,Chat Frontline,2,4508.0
+2025-12,LOST-TRANSIT,Lost or Undelivered,A3031,Zaid Desai,Logistics,1,4499.0
+2025-12,RETURN-QC-OK,Return Accepted (QC Passed),A3030,Aishwarya Trivedi,Logistics,2,4273.0
+2025-12,CANCEL,Order Cancellation,A3006,Varun Bhatt,Chat Frontline,2,4234.0
+2025-12,RETURN-QC-OK,Return Accepted (QC Passed),A3033,Vikram Banerjee,Billing,2,4198.0
+2025-12,LOST-TRANSIT,Lost or Undelivered,A3030,Aishwarya Trivedi,Logistics,2,4098.0
+2025-12,WTY-BUYBACK,Warranty Buy-back,A3018,Krishna Bhatt,Email Frontline,2,3924.0
+2025-12,CANCEL,Order Cancellation,A3013,Rohit Nair,Chat Frontline,1,3499.0
+2025-12,DOA-REPL,Dead on Arrival (Replacement),A3015,Sameer Jadhav,Chat Frontline,1,3499.0
+2025-12,DOA-REPL,Dead on Arrival (Replacement),A3029,Rajat Mukherjee,Logistics,1,3499.0
+2025-12,DUP-PAYMENT,Duplicate Payment,A3007,Abhishek Gupta,Chat Frontline,1,3499.0
+2025-12,DUP-PAYMENT,Duplicate Payment,A3031,Zaid Desai,Logistics,1,3499.0
+2025-12,RETURN-QC-OK,Return Accepted (QC Passed),A3027,Priya Agarwal,Logistics,1,3499.0
+2025-12,CANCEL,Order Cancellation,A3019,Kavya Agarwal,Email Frontline,2,3324.0
+2025-12,GW-OTHER,Goodwill / Other,A3027,Priya Agarwal,Logistics,2,3324.0
+2025-12,RETURN-QC-OK,Return Accepted (QC Passed),A3035,Dev Kulkarni,Billing,1,3324.0
+2025-12,WTY-BUYBACK,Warranty Buy-back,A3007,Abhishek Gupta,Chat Frontline,1,3324.0
+2025-12,RETURN-QC-OK,Return Accepted (QC Passed),A3034,Tanvi Rathore,Billing,1,3149.0
+2025-12,CANCEL,Order Cancellation,A3002,Steven Ansari,Chat Frontline,1,2974.0
+2025-12,GW-OTHER,Goodwill / Other,A3010,Tenzin Mathew,Chat Frontline,1,2799.0
+2025-12,GW-OTHER,Goodwill / Other,A3014,Anjali D'Souza,Chat Frontline,1,2799.0
+2025-12,PRICE-ADJ,Price or Coupon Adjustment,A3035,Dev Kulkarni,Billing,2,2755.0
+2025-12,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,1,2600.0
+2025-12,DOA-REPL,Dead on Arrival (Replacement),A3013,Rohit Nair,Chat Frontline,1,2499.0
+2025-12,DUP-PAYMENT,Duplicate Payment,A3018,Krishna Bhatt,Email Frontline,1,2499.0
+2025-12,GW-OTHER,Goodwill / Other,A3025,Komal Malhotra,Voice Frontline,1,2499.0
+2025-12,PRICE-ADJ,Price or Coupon Adjustment,A3033,Vikram Banerjee,Billing,1,2499.0
+2025-12,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,2,2057.0
+2025-12,CANCEL,Order Cancellation,A3012,Lakshmi Srivastava,Chat Frontline,1,1999.0
+2025-12,DOA-REPL,Dead on Arrival (Replacement),A3039,Reyansh Mishra,Escalations & Warranty,1,1999.0
+2025-12,DOA-REPL,Dead on Arrival (Replacement),A3043,Nikhil Gupta,Escalations & Warranty,1,1999.0
+2025-12,WTY-BUYBACK,Warranty Buy-back,A3026,Aadhya Deshpande,Voice Frontline,1,1619.0
+2025-12,DUP-PAYMENT,Duplicate Payment,A3015,Sameer Jadhav,Chat Frontline,1,1299.0
+2025-12,LOST-TRANSIT,Lost or Undelivered,A3028,Sameer Kapoor,Logistics,1,1299.0
+2025-12,DUP-PAYMENT,Duplicate Payment,A3024,Amit Deshpande,Voice Frontline,1,1105.0
+2025-12,DOA-REPL,Dead on Arrival (Replacement),A3030,Aishwarya Trivedi,Logistics,1,840.0
+2025-12,GW-OTHER,Goodwill / Other,A3019,Kavya Agarwal,Email Frontline,1,700.0
+2025-12,RETURN-QC-OK,Return Accepted (QC Passed),A3001,Suresh Kaur,Chat Frontline,1,630.0
+2025-12,DUP-PAYMENT,Duplicate Payment,A3005,Payal Bhatia,Chat Frontline,1,560.0
+2025-12,GW-OTHER,Goodwill / Other,A3016,Thomas Kumar,Email Frontline,1,525.0
+2025-12,GW-OTHER,Goodwill / Other,A3031,Zaid Desai,Logistics,1,525.0
+2025-12,CANCEL,Order Cancellation,A3010,Tenzin Mathew,Chat Frontline,1,500.0
+2025-12,WTY-BUYBACK,Warranty Buy-back,A3017,Kabir Singh,Email Frontline,1,472.0
+2025-12,GW-OTHER,Goodwill / Other,A3028,Sameer Kapoor,Logistics,1,375.0
+2025-12,CANCEL,Order Cancellation,A3031,Zaid Desai,Logistics,1,350.0
+2025-12,GW-OTHER,Goodwill / Other,A3006,Varun Bhatt,Chat Frontline,1,160.0
+2026-01,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,12,46713.0
+2026-01,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,6,28419.0
+2026-01,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,6,20190.0
+2026-01,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,6,17141.0
+2026-01,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,6,15461.0
+2026-01,GW-OTHER,Goodwill / Other,A3029,Rajat Mukherjee,Logistics,2,15097.0
+2026-01,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,5,13893.0
+2026-01,GW-OTHER,Goodwill / Other,A3011,Rohit Gill,Chat Frontline,3,13297.0
+2026-01,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,5,10749.0
+2026-01,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,5,10601.0
+2026-01,GW-OTHER,Goodwill / Other,A3004,Geeta Dutta,Chat Frontline,3,10497.0
+2026-01,GW-OTHER,Goodwill / Other,A3018,Krishna Bhatt,Email Frontline,4,9946.0
+2026-01,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,4,9015.0
+2026-01,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,2,8898.0
+2026-01,GW-OTHER,Goodwill / Other,A3026,Aadhya Deshpande,Voice Frontline,2,8873.0
+2026-01,RETURN-QC-OK,Return Accepted (QC Passed),A3035,Dev Kulkarni,Billing,3,7723.0
+2026-01,RETURN-QC-OK,Return Accepted (QC Passed),A3030,Aishwarya Trivedi,Logistics,3,7453.0
+2026-01,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,3,7310.0
+2026-01,GW-OTHER,Goodwill / Other,A3009,Sukhwinder Singh,Chat Frontline,2,7223.0
+2026-01,DOA-REPL,Dead on Arrival (Replacement),A3028,Sameer Kapoor,Logistics,1,6998.0
+2026-01,GW-OTHER,Goodwill / Other,A3032,Sneha Bansal,Billing,1,6649.0
+2026-01,CANCEL,Order Cancellation,A3007,Abhishek Gupta,Chat Frontline,2,6648.0
+2026-01,GW-OTHER,Goodwill / Other,A3039,Reyansh Mishra,Escalations & Warranty,1,6499.0
+2026-01,PRICE-ADJ,Price or Coupon Adjustment,A3032,Sneha Bansal,Billing,1,6499.0
+2026-01,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,2,6248.0
+2026-01,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,4,6013.0
+2026-01,DUP-PAYMENT,Duplicate Payment,A3026,Aadhya Deshpande,Voice Frontline,2,5924.0
+2026-01,DUP-PAYMENT,Duplicate Payment,A3017,Kabir Singh,Email Frontline,1,5599.0
+2026-01,CANCEL,Order Cancellation,A3018,Krishna Bhatt,Email Frontline,3,5597.0
+2026-01,DOA-REPL,Dead on Arrival (Replacement),A3001,Suresh Kaur,Chat Frontline,1,5524.0
+2026-01,GW-OTHER,Goodwill / Other,A3027,Priya Agarwal,Logistics,2,5298.0
+2026-01,DUP-PAYMENT,Duplicate Payment,A3002,Steven Ansari,Chat Frontline,1,5199.0
+2026-01,WTY-BUYBACK,Warranty Buy-back,A3013,Rohit Nair,Chat Frontline,1,4998.0
+2026-01,DOA-REPL,Dead on Arrival (Replacement),A3031,Zaid Desai,Logistics,1,4499.0
+2026-01,WTY-BUYBACK,Warranty Buy-back,A3018,Krishna Bhatt,Email Frontline,2,4448.0
+2026-01,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,2,3799.0
+2026-01,CANCEL,Order Cancellation,A3013,Rohit Nair,Chat Frontline,1,3499.0
+2026-01,DUP-PAYMENT,Duplicate Payment,A3024,Amit Deshpande,Voice Frontline,1,3499.0
+2026-01,GW-OTHER,Goodwill / Other,A3003,Komal Singh,Chat Frontline,1,3499.0
+2026-01,GW-OTHER,Goodwill / Other,A3006,Varun Bhatt,Chat Frontline,1,3499.0
+2026-01,GW-OTHER,Goodwill / Other,A3031,Zaid Desai,Logistics,1,3499.0
+2026-01,PRICE-ADJ,Price or Coupon Adjustment,A3007,Abhishek Gupta,Chat Frontline,1,3499.0
+2026-01,WTY-BUYBACK,Warranty Buy-back,A3003,Komal Singh,Chat Frontline,1,3499.0
+2026-01,GW-OTHER,Goodwill / Other,A3016,Thomas Kumar,Email Frontline,2,3399.0
+2026-01,CANCEL,Order Cancellation,A3008,Meera Malhotra,Chat Frontline,1,3149.0
+2026-01,GW-OTHER,Goodwill / Other,A3012,Lakshmi Srivastava,Chat Frontline,1,3149.0
+2026-01,LOST-TRANSIT,Lost or Undelivered,A3027,Priya Agarwal,Logistics,1,3149.0
+2026-01,WTY-BUYBACK,Warranty Buy-back,A3008,Meera Malhotra,Chat Frontline,1,3149.0
+2026-01,WTY-BUYBACK,Warranty Buy-back,A3039,Reyansh Mishra,Escalations & Warranty,1,3149.0
+2026-01,GW-OTHER,Goodwill / Other,A3028,Sameer Kapoor,Logistics,2,2998.0
+2026-01,CANCEL,Order Cancellation,A3015,Sameer Jadhav,Chat Frontline,1,2974.0
+2026-01,RETURN-QC-OK,Return Accepted (QC Passed),A3028,Sameer Kapoor,Logistics,1,2974.0
+2026-01,CANCEL,Order Cancellation,A3026,Aadhya Deshpande,Voice Frontline,1,2799.0
+2026-01,CANCEL,Order Cancellation,A3003,Komal Singh,Chat Frontline,2,2723.0
+2026-01,CANCEL,Order Cancellation,A3030,Aishwarya Trivedi,Logistics,1,2499.0
+2026-01,CANCEL,Order Cancellation,A3034,Tanvi Rathore,Billing,1,2499.0
+2026-01,DUP-PAYMENT,Duplicate Payment,A3013,Rohit Nair,Chat Frontline,1,2468.0
+2026-01,LOST-TRANSIT,Lost or Undelivered,A3009,Sukhwinder Singh,Chat Frontline,1,2249.0
+2026-01,DOA-REPL,Dead on Arrival (Replacement),A3005,Payal Bhatia,Chat Frontline,1,1999.0
+2026-01,LOST-TRANSIT,Lost or Undelivered,A3029,Rajat Mukherjee,Logistics,1,1999.0
+2026-01,CANCEL,Order Cancellation,A3017,Kabir Singh,Email Frontline,1,1799.0
+2026-01,GW-OTHER,Goodwill / Other,A3021,Meera Mathew,Email Frontline,1,1699.0
+2026-01,CANCEL,Order Cancellation,A3014,Anjali D'Souza,Chat Frontline,1,1299.0
+2026-01,DUP-PAYMENT,Duplicate Payment,A3009,Sukhwinder Singh,Chat Frontline,1,1250.0
+2026-01,DOA-REPL,Dead on Arrival (Replacement),A3042,Swati Bhatia,Escalations & Warranty,1,1169.0
+2026-01,DOA-REPL,Dead on Arrival (Replacement),A3043,Nikhil Gupta,Escalations & Warranty,1,1039.0
+2026-01,CANCEL,Order Cancellation,A3010,Tenzin Mathew,Chat Frontline,1,700.0
+2026-01,GW-OTHER,Goodwill / Other,A3013,Rohit Nair,Chat Frontline,1,700.0
+2026-01,CANCEL,Order Cancellation,A3016,Thomas Kumar,Email Frontline,1,630.0
+2026-01,RETURN-QC-OK,Return Accepted (QC Passed),A3027,Priya Agarwal,Logistics,1,525.0
+2026-01,DUP-PAYMENT,Duplicate Payment,A3012,Lakshmi Srivastava,Chat Frontline,1,520.0
+2026-01,GW-OTHER,Goodwill / Other,A3008,Meera Malhotra,Chat Frontline,1,500.0
+2026-01,PRICE-ADJ,Price or Coupon Adjustment,A3008,Meera Malhotra,Chat Frontline,1,400.0
+2026-01,CANCEL,Order Cancellation,A3033,Vikram Banerjee,Billing,1,332.0
+2026-01,DUP-PAYMENT,Duplicate Payment,A3038,Ankit Dhillon,Returns Desk,1,280.0
+2026-01,GW-OTHER,Goodwill / Other,A3042,Swati Bhatia,Escalations & Warranty,1,270.0
+2026-02,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,10,30103.0
+2026-02,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,8,29623.0
+2026-02,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,7,22339.0
+2026-02,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,4,16441.0
+2026-02,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,7,16440.0
+2026-02,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,6,16418.0
+2026-02,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,5,16114.0
+2026-02,GW-OTHER,Goodwill / Other,A3027,Priya Agarwal,Logistics,2,14147.0
+2026-02,GW-OTHER,Goodwill / Other,A3032,Sneha Bansal,Billing,4,10047.0
+2026-02,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,8,9882.0
+2026-02,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,5,9342.0
+2026-02,DUP-PAYMENT,Duplicate Payment,A3018,Krishna Bhatt,Email Frontline,1,8498.0
+2026-02,PRICE-ADJ,Price or Coupon Adjustment,A3035,Dev Kulkarni,Billing,2,8397.0
+2026-02,GW-OTHER,Goodwill / Other,A3018,Krishna Bhatt,Email Frontline,4,8122.0
+2026-02,GW-OTHER,Goodwill / Other,A3026,Aadhya Deshpande,Voice Frontline,3,7197.0
+2026-02,DOA-REPL,Dead on Arrival (Replacement),A3021,Meera Mathew,Email Frontline,1,6499.0
+2026-02,PRICE-ADJ,Price or Coupon Adjustment,A3018,Krishna Bhatt,Email Frontline,1,6299.0
+2026-02,GW-OTHER,Goodwill / Other,A3007,Abhishek Gupta,Chat Frontline,3,6280.0
+2026-02,DOA-REPL,Dead on Arrival (Replacement),A3030,Aishwarya Trivedi,Logistics,2,5998.0
+2026-02,GW-OTHER,Goodwill / Other,A3042,Swati Bhatia,Escalations & Warranty,1,5949.0
+2026-02,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,2,5948.0
+2026-02,DOA-REPL,Dead on Arrival (Replacement),A3038,Ankit Dhillon,Returns Desk,1,5524.0
+2026-02,GW-OTHER,Goodwill / Other,A3005,Payal Bhatia,Chat Frontline,3,5463.0
+2026-02,GW-OTHER,Goodwill / Other,A3031,Zaid Desai,Logistics,2,5298.0
+2026-02,RETURN-QC-OK,Return Accepted (QC Passed),A3027,Priya Agarwal,Logistics,2,5173.0
+2026-02,DOA-REPL,Dead on Arrival (Replacement),A3039,Reyansh Mishra,Escalations & Warranty,1,5099.0
+2026-02,RETURN-QC-OK,Return Accepted (QC Passed),A3030,Aishwarya Trivedi,Logistics,1,4999.0
+2026-02,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,2,4798.0
+2026-02,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,3,4223.0
+2026-02,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,3,4004.0
+2026-02,CANCEL,Order Cancellation,A3023,Ritika Gaikwad,Voice Frontline,1,3999.0
+2026-02,CANCEL,Order Cancellation,A3014,Anjali D'Souza,Chat Frontline,1,3499.0
+2026-02,DOA-REPL,Dead on Arrival (Replacement),A3007,Abhishek Gupta,Chat Frontline,1,3499.0
+2026-02,DUP-PAYMENT,Duplicate Payment,A3003,Komal Singh,Chat Frontline,1,3499.0
+2026-02,GW-OTHER,Goodwill / Other,A3002,Steven Ansari,Chat Frontline,1,3499.0
+2026-02,GW-OTHER,Goodwill / Other,A3021,Meera Mathew,Email Frontline,1,3499.0
+2026-02,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,2,3419.0
+2026-02,DOA-REPL,Dead on Arrival (Replacement),A3010,Tenzin Mathew,Chat Frontline,1,3324.0
+2026-02,RETURN-QC-OK,Return Accepted (QC Passed),A3032,Sneha Bansal,Billing,1,3324.0
+2026-02,WTY-BUYBACK,Warranty Buy-back,A3028,Sameer Kapoor,Logistics,1,3324.0
+2026-02,PRICE-ADJ,Price or Coupon Adjustment,A3033,Vikram Banerjee,Billing,2,3273.0
+2026-02,DUP-PAYMENT,Duplicate Payment,A3010,Tenzin Mathew,Chat Frontline,1,3149.0
+2026-02,GW-OTHER,Goodwill / Other,A3016,Thomas Kumar,Email Frontline,1,3149.0
+2026-02,GW-OTHER,Goodwill / Other,A3020,Aadhya Singh,Email Frontline,1,2799.0
+2026-02,GW-OTHER,Goodwill / Other,A3028,Sameer Kapoor,Logistics,2,2599.0
+2026-02,GW-OTHER,Goodwill / Other,A3041,Mohammed Mehta,Escalations & Warranty,1,2499.0
+2026-02,CANCEL,Order Cancellation,A3017,Kabir Singh,Email Frontline,1,2124.0
+2026-02,PRICE-ADJ,Price or Coupon Adjustment,A3034,Tanvi Rathore,Billing,2,1850.0
+2026-02,LOST-TRANSIT,Lost or Undelivered,A3029,Rajat Mukherjee,Logistics,1,1799.0
+2026-02,RETURN-QC-OK,Return Accepted (QC Passed),A3029,Rajat Mukherjee,Logistics,1,1799.0
+2026-02,CANCEL,Order Cancellation,A3016,Thomas Kumar,Email Frontline,1,1619.0
+2026-02,GW-OTHER,Goodwill / Other,A3039,Reyansh Mishra,Escalations & Warranty,1,1619.0
+2026-02,RETURN-QC-OK,Return Accepted (QC Passed),A3028,Sameer Kapoor,Logistics,1,1619.0
+2026-02,GW-OTHER,Goodwill / Other,A3017,Kabir Singh,Email Frontline,1,650.0
+2026-02,CANCEL,Order Cancellation,A3009,Sukhwinder Singh,Chat Frontline,1,585.0
+2026-02,CANCEL,Order Cancellation,A3003,Komal Singh,Chat Frontline,1,420.0
+2026-02,CANCEL,Order Cancellation,A3010,Tenzin Mathew,Chat Frontline,1,420.0
+2026-02,WTY-BUYBACK,Warranty Buy-back,A3026,Aadhya Deshpande,Voice Frontline,1,332.0
+2026-02,DOA-REPL,Dead on Arrival (Replacement),A3022,Daniel Arora,Email Frontline,1,319.0
+2026-02,GW-OTHER,Goodwill / Other,A3029,Rajat Mukherjee,Logistics,1,319.0
+2026-02,DOA-REPL,Dead on Arrival (Replacement),A3029,Rajat Mukherjee,Logistics,1,306.0
+2026-03,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,9,28469.0
+2026-03,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,8,25372.0
+2026-03,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,8,20601.0
+2026-03,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,8,18865.0
+2026-03,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,6,18065.0
+2026-03,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,4,15671.0
+2026-03,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,7,13166.0
+2026-03,GW-OTHER,Goodwill / Other,A3041,Mohammed Mehta,Escalations & Warranty,1,12348.0
+2026-03,DOA-REPL,Dead on Arrival (Replacement),A3030,Aishwarya Trivedi,Logistics,3,11147.0
+2026-03,LOST-TRANSIT,Lost or Undelivered,A3030,Aishwarya Trivedi,Logistics,2,10247.0
+2026-03,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,4,8814.0
+2026-03,GW-OTHER,Goodwill / Other,A3010,Tenzin Mathew,Chat Frontline,3,8774.0
+2026-03,GW-OTHER,Goodwill / Other,A3014,Anjali D'Souza,Chat Frontline,2,8648.0
+2026-03,PRICE-ADJ,Price or Coupon Adjustment,A3035,Dev Kulkarni,Billing,1,8498.0
+2026-03,GW-OTHER,Goodwill / Other,A3005,Payal Bhatia,Chat Frontline,3,8097.0
+2026-03,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,3,7737.0
+2026-03,PRICE-ADJ,Price or Coupon Adjustment,A3001,Suresh Kaur,Chat Frontline,1,6999.0
+2026-03,RETURN-QC-OK,Return Accepted (QC Passed),A3029,Rajat Mukherjee,Logistics,1,6999.0
+2026-03,WTY-BUYBACK,Warranty Buy-back,A3039,Reyansh Mishra,Escalations & Warranty,1,6998.0
+2026-03,DOA-REPL,Dead on Arrival (Replacement),A3016,Thomas Kumar,Email Frontline,3,6997.0
+2026-03,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,2,6949.0
+2026-03,DOA-REPL,Dead on Arrival (Replacement),A3039,Reyansh Mishra,Escalations & Warranty,2,6798.0
+2026-03,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,4,6784.0
+2026-03,GW-OTHER,Goodwill / Other,A3013,Rohit Nair,Chat Frontline,2,6698.0
+2026-03,LOST-TRANSIT,Lost or Undelivered,A3031,Zaid Desai,Logistics,1,6499.0
+2026-03,GW-OTHER,Goodwill / Other,A3007,Abhishek Gupta,Chat Frontline,2,6199.0
+2026-03,DUP-PAYMENT,Duplicate Payment,A3011,Rohit Gill,Chat Frontline,2,6123.0
+2026-03,GW-OTHER,Goodwill / Other,A3028,Sameer Kapoor,Logistics,2,5998.0
+2026-03,GW-OTHER,Goodwill / Other,A3006,Varun Bhatt,Chat Frontline,2,5659.0
+2026-03,GW-OTHER,Goodwill / Other,A3009,Sukhwinder Singh,Chat Frontline,2,5523.0
+2026-03,WTY-BUYBACK,Warranty Buy-back,A3030,Aishwarya Trivedi,Logistics,2,5498.0
+2026-03,DOA-REPL,Dead on Arrival (Replacement),A3031,Zaid Desai,Logistics,2,5298.0
+2026-03,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,2,5298.0
+2026-03,LOST-TRANSIT,Lost or Undelivered,A3029,Rajat Mukherjee,Logistics,1,5199.0
+2026-03,CANCEL,Order Cancellation,A3018,Krishna Bhatt,Email Frontline,4,4402.0
+2026-03,CANCEL,Order Cancellation,A3035,Dev Kulkarni,Billing,2,3868.0
+2026-03,GW-OTHER,Goodwill / Other,A3032,Sneha Bansal,Billing,2,3844.0
+2026-03,GW-OTHER,Goodwill / Other,A3004,Geeta Dutta,Chat Frontline,1,3499.0
+2026-03,GW-OTHER,Goodwill / Other,A3018,Krishna Bhatt,Email Frontline,1,3499.0
+2026-03,GW-OTHER,Goodwill / Other,A3026,Aadhya Deshpande,Voice Frontline,1,3499.0
+2026-03,CANCEL,Order Cancellation,A3006,Varun Bhatt,Chat Frontline,2,3333.0
+2026-03,DOA-REPL,Dead on Arrival (Replacement),A3029,Rajat Mukherjee,Logistics,1,3324.0
+2026-03,DUP-PAYMENT,Duplicate Payment,A3024,Amit Deshpande,Voice Frontline,1,3324.0
+2026-03,GW-OTHER,Goodwill / Other,A3040,Thomas Jadhav,Escalations & Warranty,1,3324.0
+2026-03,RETURN-QC-OK,Return Accepted (QC Passed),A3031,Zaid Desai,Logistics,1,3324.0
+2026-03,RETURN-QC-OK,Return Accepted (QC Passed),A3033,Vikram Banerjee,Billing,1,3324.0
+2026-03,RETURN-QC-OK,Return Accepted (QC Passed),A3019,Kavya Agarwal,Email Frontline,1,3149.0
+2026-03,WTY-BUYBACK,Warranty Buy-back,A3003,Komal Singh,Chat Frontline,1,3149.0
+2026-03,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,2,3060.0
+2026-03,DOA-REPL,Dead on Arrival (Replacement),A3014,Anjali D'Souza,Chat Frontline,1,3058.0
+2026-03,LOST-TRANSIT,Lost or Undelivered,A3027,Priya Agarwal,Logistics,1,2974.0
+2026-03,DUP-PAYMENT,Duplicate Payment,A3002,Steven Ansari,Chat Frontline,1,2848.0
+2026-03,CANCEL,Order Cancellation,A3003,Komal Singh,Chat Frontline,2,2674.0
+2026-03,GW-OTHER,Goodwill / Other,A3039,Reyansh Mishra,Escalations & Warranty,1,2499.0
+2026-03,RETURN-QC-OK,Return Accepted (QC Passed),A3030,Aishwarya Trivedi,Logistics,1,2499.0
+2026-03,GW-OTHER,Goodwill / Other,A3031,Zaid Desai,Logistics,2,2327.0
+2026-03,DUP-PAYMENT,Duplicate Payment,A3036,Ritika D'Souza,Returns Desk,1,2249.0
+2026-03,GW-OTHER,Goodwill / Other,A3027,Priya Agarwal,Logistics,1,2124.0
+2026-03,WTY-BUYBACK,Warranty Buy-back,A3029,Rajat Mukherjee,Logistics,1,1999.0
+2026-03,DOA-REPL,Dead on Arrival (Replacement),A3003,Komal Singh,Chat Frontline,1,1799.0
+2026-03,DUP-PAYMENT,Duplicate Payment,A3026,Aadhya Deshpande,Voice Frontline,1,1799.0
+2026-03,GW-OTHER,Goodwill / Other,A3016,Thomas Kumar,Email Frontline,1,1799.0
+2026-03,WTY-BUYBACK,Warranty Buy-back,A3040,Thomas Jadhav,Escalations & Warranty,1,1529.0
+2026-03,CANCEL,Order Cancellation,A3016,Thomas Kumar,Email Frontline,1,1299.0
+2026-03,WTY-BUYBACK,Warranty Buy-back,A3017,Kabir Singh,Email Frontline,1,1299.0
+2026-03,WTY-BUYBACK,Warranty Buy-back,A3024,Amit Deshpande,Voice Frontline,1,1299.0
+2026-03,CANCEL,Order Cancellation,A3001,Suresh Kaur,Chat Frontline,1,1274.0
+2026-03,DUP-PAYMENT,Duplicate Payment,A3003,Komal Singh,Chat Frontline,1,1234.0
+2026-03,LOST-TRANSIT,Lost or Undelivered,A3026,Aadhya Deshpande,Voice Frontline,1,1234.0
+2026-03,GW-OTHER,Goodwill / Other,A3019,Kavya Agarwal,Email Frontline,1,1199.0
+2026-03,DOA-REPL,Dead on Arrival (Replacement),A3019,Kavya Agarwal,Email Frontline,1,1120.0
+2026-03,GW-OTHER,Goodwill / Other,A3015,Sameer Jadhav,Chat Frontline,1,900.0
+2026-03,DUP-PAYMENT,Duplicate Payment,A3018,Krishna Bhatt,Email Frontline,1,650.0
+2026-03,GW-OTHER,Goodwill / Other,A3021,Meera Mathew,Email Frontline,1,525.0
+2026-03,CANCEL,Order Cancellation,A3031,Zaid Desai,Logistics,1,499.0
+2026-03,RETURN-QC-OK,Return Accepted (QC Passed),A3016,Thomas Kumar,Email Frontline,1,450.0
+2026-03,CANCEL,Order Cancellation,A3015,Sameer Jadhav,Chat Frontline,1,425.0
+2026-03,CANCEL,Order Cancellation,A3032,Sneha Bansal,Billing,1,360.0
+2026-03,RETURN-QC-OK,Return Accepted (QC Passed),A3035,Dev Kulkarni,Billing,1,332.0
+2026-03,DUP-PAYMENT,Duplicate Payment,A3031,Zaid Desai,Logistics,1,280.0
+2026-03,RETURN-QC-OK,Return Accepted (QC Passed),A3002,Steven Ansari,Chat Frontline,1,156.0
+2026-03,GW-OTHER,Goodwill / Other,A3020,Aadhya Singh,Email Frontline,1,104.0
+2026-04,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,13,27604.0
+2026-04,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,8,25754.0
+2026-04,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,8,23490.0
+2026-04,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,8,17832.0
+2026-04,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,7,17710.0
+2026-04,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,4,16596.0
+2026-04,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,4,15047.0
+2026-04,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,7,13798.0
+2026-04,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,3,12797.0
+2026-04,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,3,10497.0
+2026-04,CANCEL,Order Cancellation,A3030,Aishwarya Trivedi,Logistics,2,10148.0
+2026-04,GW-OTHER,Goodwill / Other,A3032,Sneha Bansal,Billing,4,9594.0
+2026-04,DOA-REPL,Dead on Arrival (Replacement),A3027,Priya Agarwal,Logistics,2,9098.0
+2026-04,GW-OTHER,Goodwill / Other,A3031,Zaid Desai,Logistics,2,8249.0
+2026-04,GW-OTHER,Goodwill / Other,A3018,Krishna Bhatt,Email Frontline,2,7698.0
+2026-04,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,4,7641.0
+2026-04,GW-OTHER,Goodwill / Other,A3007,Abhishek Gupta,Chat Frontline,2,7398.0
+2026-04,CANCEL,Order Cancellation,A3011,Rohit Gill,Chat Frontline,1,6999.0
+2026-04,GW-OTHER,Goodwill / Other,A3028,Sameer Kapoor,Logistics,2,6999.0
+2026-04,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,3,6698.0
+2026-04,GW-OTHER,Goodwill / Other,A3003,Komal Singh,Chat Frontline,2,6648.0
+2026-04,PRICE-ADJ,Price or Coupon Adjustment,A3018,Krishna Bhatt,Email Frontline,1,6648.0
+2026-04,GW-OTHER,Goodwill / Other,A3001,Suresh Kaur,Chat Frontline,1,6298.0
+2026-04,GW-OTHER,Goodwill / Other,A3027,Priya Agarwal,Logistics,3,6202.0
+2026-04,WTY-BUYBACK,Warranty Buy-back,A3036,Ritika D'Souza,Returns Desk,1,6174.0
+2026-04,RETURN-QC-OK,Return Accepted (QC Passed),A3030,Aishwarya Trivedi,Logistics,2,5339.0
+2026-04,GW-OTHER,Goodwill / Other,A3015,Sameer Jadhav,Chat Frontline,2,4923.0
+2026-04,GW-OTHER,Goodwill / Other,A3026,Aadhya Deshpande,Voice Frontline,3,4198.0
+2026-04,CANCEL,Order Cancellation,A3018,Krishna Bhatt,Email Frontline,1,3999.0
+2026-04,LOST-TRANSIT,Lost or Undelivered,A3030,Aishwarya Trivedi,Logistics,2,3549.0
+2026-04,DUP-PAYMENT,Duplicate Payment,A3026,Aadhya Deshpande,Voice Frontline,1,3499.0
+2026-04,LOST-TRANSIT,Lost or Undelivered,A3036,Ritika D'Souza,Returns Desk,1,3499.0
+2026-04,PRICE-ADJ,Price or Coupon Adjustment,A3038,Ankit Dhillon,Returns Desk,1,3499.0
+2026-04,WTY-BUYBACK,Warranty Buy-back,A3017,Kabir Singh,Email Frontline,1,3499.0
+2026-04,PRICE-ADJ,Price or Coupon Adjustment,A3015,Sameer Jadhav,Chat Frontline,1,3324.0
+2026-04,CANCEL,Order Cancellation,A3007,Abhishek Gupta,Chat Frontline,2,3274.0
+2026-04,DOA-REPL,Dead on Arrival (Replacement),A3039,Reyansh Mishra,Escalations & Warranty,2,3174.0
+2026-04,CANCEL,Order Cancellation,A3023,Ritika Gaikwad,Voice Frontline,1,3149.0
+2026-04,GW-OTHER,Goodwill / Other,A3008,Meera Malhotra,Chat Frontline,1,3149.0
+2026-04,GW-OTHER,Goodwill / Other,A3025,Komal Malhotra,Voice Frontline,1,3149.0
+2026-04,CANCEL,Order Cancellation,A3026,Aadhya Deshpande,Voice Frontline,1,2799.0
+2026-04,CANCEL,Order Cancellation,A3032,Sneha Bansal,Billing,1,2799.0
+2026-04,GW-OTHER,Goodwill / Other,A3002,Steven Ansari,Chat Frontline,1,2799.0
+2026-04,GW-OTHER,Goodwill / Other,A3011,Rohit Gill,Chat Frontline,1,2799.0
+2026-04,GW-OTHER,Goodwill / Other,A3021,Meera Mathew,Email Frontline,1,2799.0
+2026-04,WTY-BUYBACK,Warranty Buy-back,A3039,Reyansh Mishra,Escalations & Warranty,1,2799.0
+2026-04,GW-OTHER,Goodwill / Other,A3010,Tenzin Mathew,Chat Frontline,1,2499.0
+2026-04,WTY-BUYBACK,Warranty Buy-back,A3013,Rohit Nair,Chat Frontline,1,2499.0
+2026-04,DOA-REPL,Dead on Arrival (Replacement),A3032,Sneha Bansal,Billing,1,2374.0
+2026-04,DUP-PAYMENT,Duplicate Payment,A3018,Krishna Bhatt,Email Frontline,1,2374.0
+2026-04,DOA-REPL,Dead on Arrival (Replacement),A3006,Varun Bhatt,Chat Frontline,1,2124.0
+2026-04,PRICE-ADJ,Price or Coupon Adjustment,A3035,Dev Kulkarni,Billing,2,2099.0
+2026-04,DOA-REPL,Dead on Arrival (Replacement),A3031,Zaid Desai,Logistics,1,1999.0
+2026-04,LOST-TRANSIT,Lost or Undelivered,A3028,Sameer Kapoor,Logistics,1,1999.0
+2026-04,RETURN-QC-OK,Return Accepted (QC Passed),A3032,Sneha Bansal,Billing,1,1999.0
+2026-04,DOA-REPL,Dead on Arrival (Replacement),A3030,Aishwarya Trivedi,Logistics,1,1799.0
+2026-04,RETURN-QC-OK,Return Accepted (QC Passed),A3017,Kabir Singh,Email Frontline,1,1799.0
+2026-04,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,2,1709.0
+2026-04,CANCEL,Order Cancellation,A3004,Geeta Dutta,Chat Frontline,1,1529.0
+2026-04,DOA-REPL,Dead on Arrival (Replacement),A3029,Rajat Mukherjee,Logistics,1,1299.0
+2026-04,DOA-REPL,Dead on Arrival (Replacement),A3040,Thomas Jadhav,Escalations & Warranty,1,1299.0
+2026-04,CANCEL,Order Cancellation,A3021,Meera Mathew,Email Frontline,1,1274.0
+2026-04,WTY-BUYBACK,Warranty Buy-back,A3012,Lakshmi Srivastava,Chat Frontline,1,1250.0
+2026-04,RETURN-QC-OK,Return Accepted (QC Passed),A3035,Dev Kulkarni,Billing,1,1234.0
+2026-04,GW-OTHER,Goodwill / Other,A3041,Mohammed Mehta,Escalations & Warranty,1,1000.0
+2026-04,RETURN-QC-OK,Return Accepted (QC Passed),A3029,Rajat Mukherjee,Logistics,1,630.0
+2026-04,PRICE-ADJ,Price or Coupon Adjustment,A3033,Vikram Banerjee,Billing,1,499.0
+2026-04,CANCEL,Order Cancellation,A3012,Lakshmi Srivastava,Chat Frontline,1,400.0
+2026-04,GW-OTHER,Goodwill / Other,A3006,Varun Bhatt,Chat Frontline,1,340.0
+2026-04,DOA-REPL,Dead on Arrival (Replacement),A3037,Manish Iyer,Returns Desk,1,200.0
+2026-04,RETURN-QC-OK,Return Accepted (QC Passed),A3031,Zaid Desai,Logistics,1,180.0
+2026-04,GW-OTHER,Goodwill / Other,A3020,Aadhya Singh,Email Frontline,1,144.0
+2026-04,DUP-PAYMENT,Duplicate Payment,A3020,Aadhya Singh,Email Frontline,1,80.0
+2026-05,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,13,33237.0
+2026-05,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,11,25696.0
+2026-05,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,9,18877.0
+2026-05,LOST-TRANSIT,Lost or Undelivered,A3030,Aishwarya Trivedi,Logistics,2,13044.0
+2026-05,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,5,12115.0
+2026-05,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,5,12019.0
+2026-05,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,5,11925.0
+2026-05,GW-OTHER,Goodwill / Other,A3039,Reyansh Mishra,Escalations & Warranty,3,10746.0
+2026-05,RETURN-QC-OK,Return Accepted (QC Passed),A3030,Aishwarya Trivedi,Logistics,3,10603.0
+2026-05,CANCEL,Order Cancellation,A3010,Tenzin Mathew,Chat Frontline,2,9973.0
+2026-05,DOA-REPL,Dead on Arrival (Replacement),A3030,Aishwarya Trivedi,Logistics,3,9622.0
+2026-05,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,4,8902.0
+2026-05,GW-OTHER,Goodwill / Other,A3008,Meera Malhotra,Chat Frontline,1,7998.0
+2026-05,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,3,7872.0
+2026-05,RETURN-QC-OK,Return Accepted (QC Passed),A3032,Sneha Bansal,Billing,2,7594.0
+2026-05,CANCEL,Order Cancellation,A3026,Aadhya Deshpande,Voice Frontline,1,6999.0
+2026-05,GW-OTHER,Goodwill / Other,A3009,Sukhwinder Singh,Chat Frontline,1,6999.0
+2026-05,GW-OTHER,Goodwill / Other,A3016,Thomas Kumar,Email Frontline,1,6998.0
+2026-05,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,2,6998.0
+2026-05,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,2,6749.0
+2026-05,WTY-BUYBACK,Warranty Buy-back,A3026,Aadhya Deshpande,Voice Frontline,1,6649.0
+2026-05,GW-OTHER,Goodwill / Other,A3032,Sneha Bansal,Billing,2,6648.0
+2026-05,CANCEL,Order Cancellation,A3005,Payal Bhatia,Chat Frontline,1,6499.0
+2026-05,GW-OTHER,Goodwill / Other,A3012,Lakshmi Srivastava,Chat Frontline,1,6499.0
+2026-05,GW-OTHER,Goodwill / Other,A3031,Zaid Desai,Logistics,1,6174.0
+2026-05,PRICE-ADJ,Price or Coupon Adjustment,A3035,Dev Kulkarni,Billing,1,5949.0
+2026-05,GW-OTHER,Goodwill / Other,A3028,Sameer Kapoor,Logistics,4,5718.0
+2026-05,DOA-REPL,Dead on Arrival (Replacement),A3044,Arjun Kumar,Escalations & Warranty,1,5598.0
+2026-05,GW-OTHER,Goodwill / Other,A3011,Rohit Gill,Chat Frontline,1,5524.0
+2026-05,WTY-BUYBACK,Warranty Buy-back,A3007,Abhishek Gupta,Chat Frontline,1,5524.0
+2026-05,DUP-PAYMENT,Duplicate Payment,A3034,Tanvi Rathore,Billing,5,5242.0
+2026-05,GW-OTHER,Goodwill / Other,A3015,Sameer Jadhav,Chat Frontline,1,5199.0
+2026-05,PRICE-ADJ,Price or Coupon Adjustment,A3033,Vikram Banerjee,Billing,1,5199.0
+2026-05,WTY-BUYBACK,Warranty Buy-back,A3027,Priya Agarwal,Logistics,1,5199.0
+2026-05,PRICE-ADJ,Price or Coupon Adjustment,A3015,Sameer Jadhav,Chat Frontline,1,4999.0
+2026-05,GW-OTHER,Goodwill / Other,A3004,Geeta Dutta,Chat Frontline,2,4849.0
+2026-05,WTY-BUYBACK,Warranty Buy-back,A3039,Reyansh Mishra,Escalations & Warranty,1,4749.0
+2026-05,RETURN-QC-OK,Return Accepted (QC Passed),A3035,Dev Kulkarni,Billing,3,4658.0
+2026-05,CANCEL,Order Cancellation,A3006,Varun Bhatt,Chat Frontline,2,4519.0
+2026-05,GW-OTHER,Goodwill / Other,A3013,Rohit Nair,Chat Frontline,1,4499.0
+2026-05,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,2,3849.0
+2026-05,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,2,3798.0
+2026-05,DOA-REPL,Dead on Arrival (Replacement),A3018,Krishna Bhatt,Email Frontline,1,3499.0
+2026-05,DOA-REPL,Dead on Arrival (Replacement),A3036,Ritika D'Souza,Returns Desk,1,3499.0
+2026-05,GW-OTHER,Goodwill / Other,A3010,Tenzin Mathew,Chat Frontline,1,3499.0
+2026-05,GW-OTHER,Goodwill / Other,A3026,Aadhya Deshpande,Voice Frontline,1,3499.0
+2026-05,PRICE-ADJ,Price or Coupon Adjustment,A3027,Priya Agarwal,Logistics,1,3499.0
+2026-05,WTY-BUYBACK,Warranty Buy-back,A3014,Anjali D'Souza,Chat Frontline,1,3499.0
+2026-05,WTY-BUYBACK,Warranty Buy-back,A3030,Aishwarya Trivedi,Logistics,1,3499.0
+2026-05,GW-OTHER,Goodwill / Other,A3018,Krishna Bhatt,Email Frontline,3,3426.0
+2026-05,CANCEL,Order Cancellation,A3002,Steven Ansari,Chat Frontline,1,3398.0
+2026-05,DOA-REPL,Dead on Arrival (Replacement),A3011,Rohit Gill,Chat Frontline,1,3324.0
+2026-05,WTY-BUYBACK,Warranty Buy-back,A3024,Amit Deshpande,Voice Frontline,1,3324.0
+2026-05,GW-OTHER,Goodwill / Other,A3002,Steven Ansari,Chat Frontline,2,2994.0
+2026-05,DOA-REPL,Dead on Arrival (Replacement),A3016,Thomas Kumar,Email Frontline,1,2974.0
+2026-05,GW-OTHER,Goodwill / Other,A3005,Payal Bhatia,Chat Frontline,1,2974.0
+2026-05,RETURN-QC-OK,Return Accepted (QC Passed),A3020,Aadhya Singh,Email Frontline,1,2800.0
+2026-05,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,3,2748.0
+2026-05,GW-OTHER,Goodwill / Other,A3019,Kavya Agarwal,Email Frontline,1,2499.0
+2026-05,GW-OTHER,Goodwill / Other,A3040,Thomas Jadhav,Escalations & Warranty,1,2499.0
+2026-05,RETURN-QC-OK,Return Accepted (QC Passed),A3027,Priya Agarwal,Logistics,1,2499.0
+2026-05,GW-OTHER,Goodwill / Other,A3017,Kabir Singh,Email Frontline,1,2124.0
+2026-05,PRICE-ADJ,Price or Coupon Adjustment,A3017,Kabir Singh,Email Frontline,1,2124.0
+2026-05,RETURN-QC-OK,Return Accepted (QC Passed),A3003,Komal Singh,Chat Frontline,1,2124.0
+2026-05,GW-OTHER,Goodwill / Other,A3006,Varun Bhatt,Chat Frontline,1,1599.0
+2026-05,CANCEL,Order Cancellation,A3023,Ritika Gaikwad,Voice Frontline,1,1439.0
+2026-05,CANCEL,Order Cancellation,A3035,Dev Kulkarni,Billing,1,1400.0
+2026-05,GW-OTHER,Goodwill / Other,A3020,Aadhya Singh,Email Frontline,1,1400.0
+2026-05,GW-OTHER,Goodwill / Other,A3043,Nikhil Gupta,Escalations & Warranty,1,1169.0
+2026-05,DUP-PAYMENT,Duplicate Payment,A3006,Varun Bhatt,Chat Frontline,1,552.0
+2026-05,DOA-REPL,Dead on Arrival (Replacement),A3037,Manish Iyer,Returns Desk,1,185.0
+2026-05,DOA-REPL,Dead on Arrival (Replacement),A3002,Steven Ansari,Chat Frontline,1,162.0
+2026-06,DUP-PAYMENT,Duplicate Payment,A3035,Dev Kulkarni,Billing,9,23301.0
+2026-06,RETURN-QC-OK,Return Accepted (QC Passed),A3036,Ritika D'Souza,Returns Desk,8,23197.0
+2026-06,GW-OTHER,Goodwill / Other,A3037,Manish Iyer,Returns Desk,7,21685.0
+2026-06,GW-OTHER,Goodwill / Other,A3036,Ritika D'Souza,Returns Desk,6,17398.0
+2026-06,GW-OTHER,Goodwill / Other,A3034,Tanvi Rathore,Billing,5,16680.0
+2026-06,GW-OTHER,Goodwill / Other,A3039,Reyansh Mishra,Escalations & Warranty,3,16497.0
+2026-06,RETURN-QC-OK,Return Accepted (QC Passed),A3037,Manish Iyer,Returns Desk,7,16159.0
+2026-06,RETURN-QC-OK,Return Accepted (QC Passed),A3038,Ankit Dhillon,Returns Desk,6,14151.0
+2026-06,GW-OTHER,Goodwill / Other,A3030,Aishwarya Trivedi,Logistics,6,12667.0
+2026-06,GW-OTHER,Goodwill / Other,A3027,Priya Agarwal,Logistics,2,9448.0
+2026-06,GW-OTHER,Goodwill / Other,A3035,Dev Kulkarni,Billing,5,8273.0
+2026-06,GW-OTHER,Goodwill / Other,A3028,Sameer Kapoor,Logistics,2,8038.0
+2026-06,RETURN-QC-OK,Return Accepted (QC Passed),A3032,Sneha Bansal,Billing,2,7948.0
+2026-06,GW-OTHER,Goodwill / Other,A3001,Suresh Kaur,Chat Frontline,3,7642.0
+2026-06,RETURN-QC-OK,Return Accepted (QC Passed),A3033,Vikram Banerjee,Billing,2,7424.0
+2026-06,GW-OTHER,Goodwill / Other,A3006,Varun Bhatt,Chat Frontline,3,7157.0
+2026-06,CANCEL,Order Cancellation,A3021,Meera Mathew,Email Frontline,1,6999.0
+2026-06,DOA-REPL,Dead on Arrival (Replacement),A3010,Tenzin Mathew,Chat Frontline,1,6999.0
+2026-06,DOA-REPL,Dead on Arrival (Replacement),A3029,Rajat Mukherjee,Logistics,1,6999.0
+2026-06,LOST-TRANSIT,Lost or Undelivered,A3028,Sameer Kapoor,Logistics,1,6999.0
+2026-06,DOA-REPL,Dead on Arrival (Replacement),A3009,Sukhwinder Singh,Chat Frontline,1,6499.0
+2026-06,DOA-REPL,Dead on Arrival (Replacement),A3015,Sameer Jadhav,Chat Frontline,2,6473.0
+2026-06,CANCEL,Order Cancellation,A3001,Suresh Kaur,Chat Frontline,1,6174.0
+2026-06,DOA-REPL,Dead on Arrival (Replacement),A3028,Sameer Kapoor,Logistics,1,6174.0
+2026-06,GW-OTHER,Goodwill / Other,A3002,Steven Ansari,Chat Frontline,1,6174.0
+2026-06,CANCEL,Order Cancellation,A3029,Rajat Mukherjee,Logistics,2,5998.0
+2026-06,CANCEL,Order Cancellation,A3018,Krishna Bhatt,Email Frontline,2,5873.0
+2026-06,GW-OTHER,Goodwill / Other,A3018,Krishna Bhatt,Email Frontline,2,5623.0
+2026-06,GW-OTHER,Goodwill / Other,A3024,Amit Deshpande,Voice Frontline,2,5598.0
+2026-06,DOA-REPL,Dead on Arrival (Replacement),A3024,Amit Deshpande,Voice Frontline,1,5524.0
+2026-06,GW-OTHER,Goodwill / Other,A3012,Lakshmi Srivastava,Chat Frontline,1,5199.0
+2026-06,GW-OTHER,Goodwill / Other,A3026,Aadhya Deshpande,Voice Frontline,2,5023.0
+2026-06,DUP-PAYMENT,Duplicate Payment,A3013,Rohit Nair,Chat Frontline,1,4999.0
+2026-06,DUP-PAYMENT,Duplicate Payment,A3018,Krishna Bhatt,Email Frontline,1,4999.0
+2026-06,LOST-TRANSIT,Lost or Undelivered,A3005,Payal Bhatia,Chat Frontline,1,4999.0
+2026-06,GW-OTHER,Goodwill / Other,A3009,Sukhwinder Singh,Chat Frontline,2,4973.0
+2026-06,GW-OTHER,Goodwill / Other,A3008,Meera Malhotra,Chat Frontline,2,4948.0
+2026-06,PRICE-ADJ,Price or Coupon Adjustment,A3032,Sneha Bansal,Billing,2,4538.0
+2026-06,GW-OTHER,Goodwill / Other,A3038,Ankit Dhillon,Returns Desk,3,4448.0
+2026-06,GW-OTHER,Goodwill / Other,A3031,Zaid Desai,Logistics,2,4199.0
+2026-06,GW-OTHER,Goodwill / Other,A3003,Komal Singh,Chat Frontline,3,3827.0
+2026-06,CANCEL,Order Cancellation,A3003,Komal Singh,Chat Frontline,3,3728.0
+2026-06,CANCEL,Order Cancellation,A3008,Meera Malhotra,Chat Frontline,1,3499.0
+2026-06,GW-OTHER,Goodwill / Other,A3005,Payal Bhatia,Chat Frontline,1,3499.0
+2026-06,WTY-BUYBACK,Warranty Buy-back,A3030,Aishwarya Trivedi,Logistics,2,3473.0
+2026-06,CANCEL,Order Cancellation,A3015,Sameer Jadhav,Chat Frontline,1,3324.0
+2026-06,CANCEL,Order Cancellation,A3030,Aishwarya Trivedi,Logistics,1,3324.0
+2026-06,CANCEL,Order Cancellation,A3032,Sneha Bansal,Billing,1,3324.0
+2026-06,DOA-REPL,Dead on Arrival (Replacement),A3013,Rohit Nair,Chat Frontline,1,3324.0
+2026-06,DOA-REPL,Dead on Arrival (Replacement),A3030,Aishwarya Trivedi,Logistics,3,3286.0
+2026-06,CANCEL,Order Cancellation,A3002,Steven Ansari,Chat Frontline,1,3149.0
+2026-06,CANCEL,Order Cancellation,A3012,Lakshmi Srivastava,Chat Frontline,1,3149.0
+2026-06,CANCEL,Order Cancellation,A3034,Tanvi Rathore,Billing,1,3149.0
+2026-06,DOA-REPL,Dead on Arrival (Replacement),A3021,Meera Mathew,Email Frontline,1,3149.0
+2026-06,LOST-TRANSIT,Lost or Undelivered,A3030,Aishwarya Trivedi,Logistics,2,3118.0
+2026-06,CANCEL,Order Cancellation,A3026,Aadhya Deshpande,Voice Frontline,1,2974.0
+2026-06,GW-OTHER,Goodwill / Other,A3011,Rohit Gill,Chat Frontline,1,2974.0
+2026-06,DOA-REPL,Dead on Arrival (Replacement),A3005,Payal Bhatia,Chat Frontline,1,2799.0
+2026-06,DUP-PAYMENT,Duplicate Payment,A3033,Vikram Banerjee,Billing,1,2799.0
+2026-06,WTY-BUYBACK,Warranty Buy-back,A3018,Krishna Bhatt,Email Frontline,1,2799.0
+2026-06,WTY-BUYBACK,Warranty Buy-back,A3041,Mohammed Mehta,Escalations & Warranty,1,2799.0
+2026-06,DOA-REPL,Dead on Arrival (Replacement),A3031,Zaid Desai,Logistics,2,2644.0
+2026-06,DOA-REPL,Dead on Arrival (Replacement),A3037,Manish Iyer,Returns Desk,1,2499.0
+2026-06,PRICE-ADJ,Price or Coupon Adjustment,A3033,Vikram Banerjee,Billing,1,2499.0
+2026-06,CANCEL,Order Cancellation,A3017,Kabir Singh,Email Frontline,2,2338.0
+2026-06,WTY-BUYBACK,Warranty Buy-back,A3012,Lakshmi Srivastava,Chat Frontline,1,2249.0
+2026-06,CANCEL,Order Cancellation,A3033,Vikram Banerjee,Billing,1,1999.0
+2026-06,GW-OTHER,Goodwill / Other,A3044,Arjun Kumar,Escalations & Warranty,1,1709.0
+2026-06,DUP-PAYMENT,Duplicate Payment,A3032,Sneha Bansal,Billing,3,1640.0
+2026-06,GW-OTHER,Goodwill / Other,A3010,Tenzin Mathew,Chat Frontline,1,1529.0
+2026-06,DUP-PAYMENT,Duplicate Payment,A3001,Suresh Kaur,Chat Frontline,1,1499.0
+2026-06,GW-OTHER,Goodwill / Other,A3029,Rajat Mukherjee,Logistics,1,1499.0
+2026-06,GW-OTHER,Goodwill / Other,A3022,Daniel Arora,Email Frontline,1,1299.0
+2026-06,GW-OTHER,Goodwill / Other,A3016,Thomas Kumar,Email Frontline,1,1000.0
+2026-06,GW-OTHER,Goodwill / Other,A3033,Vikram Banerjee,Billing,1,900.0
+2026-06,CANCEL,Order Cancellation,A3004,Geeta Dutta,Chat Frontline,1,700.0
+2026-06,PRICE-ADJ,Price or Coupon Adjustment,A3035,Dev Kulkarni,Billing,1,700.0
+2026-06,CANCEL,Order Cancellation,A3005,Payal Bhatia,Chat Frontline,1,585.0
+2026-06,DOA-REPL,Dead on Arrival (Replacement),A3032,Sneha Bansal,Billing,1,332.0
+2026-06,GW-OTHER,Goodwill / Other,A3025,Komal Malhotra,Voice Frontline,1,332.0
+2026-06,CANCEL,Order Cancellation,A3022,Daniel Arora,Email Frontline,1,297.0
+2026-06,CANCEL,Order Cancellation,A3006,Varun Bhatt,Chat Frontline,1,270.0
+2026-06,DUP-PAYMENT,Duplicate Payment,A3009,Sukhwinder Singh,Chat Frontline,1,256.0
+2026-06,PRICE-ADJ,Price or Coupon Adjustment,A3016,Thomas Kumar,Email Frontline,1,250.0
+2026-06,DUP-PAYMENT,Duplicate Payment,A3021,Meera Mathew,Email Frontline,1,130.0
+2026-06,PRICE-ADJ,Price or Coupon Adjustment,A3034,Tanvi Rathore,Billing,1,104.0

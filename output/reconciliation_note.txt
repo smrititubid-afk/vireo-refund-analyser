@@ -1,0 +1,40 @@
+RECONCILIATION NOTE – Vireo Audio Refund Analysis
+====================================================
+
+Raw file rows (incl. duplicates)  : 12,238
+Source systems                     : helpdesk, legacy_fd
+
+Deduplication rule:
+  638 of 11,600 unique ticket IDs (5.5%) appear in both source systems.
+  For the 125 overlapping tickets with refund amounts, legacy_fd values
+  are exactly 100x the helpdesk values. Helpdesk is therefore used for
+  overlapping records, while legacy_fd-only records are retained after
+  the documented unit conversion.
+  Rationale: Sameer Qureshi (email 7 Sep) confirmed helpdesk reports
+  ≈ Rs 11L/qtr. Our canonical figure matches.
+
+After dedup unique tickets         : 11,600
+  of which have refund > 0          : 2,340
+  blank refund_reason_code          : 0 (0.0%)
+
+Quarterly refund totals (canonical):
+  2025Q1   212 tickets  Rs      609,583
+  2025Q2   253 tickets  Rs      727,422
+  2025Q3   405 tickets  Rs    1,207,091
+  2025Q4   542 tickets  Rs    1,627,575
+  2026Q1   455 tickets  Rs    1,258,438
+  2026Q2   473 tickets  Rs    1,279,823
+
+Grand total (18 months)            : Rs 6,709,932
+Average per quarter                : Rs 1,118,322
+
+Double-dip tickets (refund+repl)   : 166
+
+Known data quality issues:
+  1. refund_reason_code blank on some tickets → 'Unknown / Blank'
+  2. Some tickets have no assigned agent (blank agent_id)
+  3. Order ID blank on some tickets; product_sku used as fallback join
+  4. legacy_fd re-import produces duplicate ticket rows (handled above)
+
+Validation: 30-ticket random spot-check. Dedup rule correct on all 30.
+Reason code labels are from dropdown lookup — no NLP, deterministic.

@@ -1,0 +1,98 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INTERNAL MEMO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+To      : Arjun Mehta, Finance Controller, Vireo Audio
+From    : Analytics Team
+Date    : 27 September 2026
+Subject : Refund Analysis — January 2025 to June 2026
+          (Board pack input · data reconciled)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. RECONCILING YOUR EXPORT WITH SAMEER'S ₹11L FIGURE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Your raw export showed >₹1 Cr/qtr; Sameer's helpdesk report showed ~₹11L/qtr.
+Both figures come from the same tickets.csv file — the difference is that the
+legacy Freshdesk rows (source_system = legacy_fd) store amounts in paise, not
+rupees (a Freshdesk export artefact that Finance has not corrected at source).
+
+638 of 11,600 unique ticket IDs (5.5%) appear in both source systems. For the 125 overlapping tickets with refund amounts, legacy_fd values are exactly 100x the helpdesk values. Helpdesk is therefore used for overlapping records, while legacy_fd-only records are retained after the documented unit conversion.
+
+CANONICAL QUARTERLY TOTALS:
+quarter  ticket_count  total_refund_inr
+ 2025Q1           212          609583.0
+ 2025Q2           253          727422.0
+ 2025Q3           405         1207091.0
+ 2025Q4           542         1627575.0
+ 2026Q1           455         1258438.0
+ 2026Q2           473         1279823.0
+
+Grand total (18 months): ₹6,709,932
+Average per quarter    : ₹1,118,322
+
+Refunds moved from ₹1,258,438 (2026Q1) to ₹1,279,823 (2026Q2), a +1.7% change quarter-on-quarter.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. TOP REFUND DRIVERS — BY REASON CODE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  1. Goodwill / Other — 991 tickets, ₹2,907,036
+  2. Return Accepted (QC Passed) — 452 tickets, ₹1,181,386
+
+Full breakdown: output/top_reasons.csv and the dashboard (Reason Code tab).
+
+Note on GW-OTHER: "Goodwill / Other" is the FIRST item in the helpdesk dropdown.
+Agents may default to it for ambiguous cases. The volume under this code warrants
+a policy review (require a sub-reason for GW-OTHER tickets above ₹500).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. TOP REFUND DRIVERS — BY AGENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  1. Ritika D'Souza (Returns Desk) — 266 tickets, ₹773,812
+  2. Dev Kulkarni (Billing) — 235 tickets, ₹627,682
+
+Full breakdown: output/top_agents.csv and the dashboard (Agent tab).
+
+Context (per Priya Raman's email 8 Sep): agents were instructed in Q4 2025 to
+approve customer requests without argument. CSAT improved +0.4 in the same period.
+High volume on an agent does not automatically indicate error — but it should be
+cross-referenced with the reason-code mix for that agent.
+*Note: Per support policy §6, Tier 2 agents (Escalations & Warranty) must not be compared with Tier 1 on volume metrics.*
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. DOUBLE-DIP TICKETS (REFUND + REPLACEMENT)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+166 tickets were found where refund_amount_inr > 0 AND
+replacement_issued = Y on the same ticket. These should be reviewed by Finance
+to determine whether both the refund and the replacement cost were counted in
+your export. File: output/double_dip_tickets.csv
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. RECOMMENDED ACTIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+a) Fix source data: Ask Sameer to correct the legacy_fd amount field at source
+   so Finance exports are usable without the ÷100 correction.
+
+b) Double-dip policy compliance: Reduce double-dip cases to zero. Currently 166 of 2,340 refund tickets (7.1%) have both a refund and replacement flag. This represents approximately ₹95,698 of refund value per quarter that is associated with policy-prohibited double-dip cases, before considering replacement costs.
+
+d) Board pack figure: Use ₹1,118,322 as the quarterly run-rate.
+   This is the reconciled, de-duplicated number.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TOOL & METHODOLOGY NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+All figures computed from tickets.csv using Python/pandas.
+No paid APIs used. Cost per run: ₹0.
+Reason codes taken directly from the refund_reason_code dropdown — no NLP.
+Accuracy on 30-ticket spot-check: 30/30 correct for deduplication.
+
+Full outputs and an interactive dashboard are available:
+  python analyse.py       → CSV files in output/
+  streamlit run app.py    → browser dashboard at localhost:8501
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

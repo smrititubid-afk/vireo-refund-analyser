@@ -1,0 +1,9 @@
+refund_reason_code,reason_label,ticket_count,total_refund_inr
+GW-OTHER,Goodwill / Other,991,2907036.0
+RETURN-QC-OK,Return Accepted (QC Passed),452,1181386.0
+DUP-PAYMENT,Duplicate Payment,321,884586.0
+CANCEL,Order Cancellation,222,612950.0
+DOA-REPL,Dead on Arrival (Replacement),147,471190.0
+WTY-BUYBACK,Warranty Buy-back,89,289154.0
+PRICE-ADJ,Price or Coupon Adjustment,71,207073.0
+LOST-TRANSIT,Lost or Undelivered,47,156557.0

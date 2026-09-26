@@ -1,0 +1,589 @@
+year_month,agent_id,name,team,site,ticket_count,total_refund_inr
+2025-01,A3036,Ritika D'Souza,Returns Desk,Indore,6,19240.0
+2025-01,A3037,Manish Iyer,Returns Desk,Indore,7,14230.0
+2025-01,A3032,Sneha Bansal,Billing,Indore,7,13006.0
+2025-01,A3023,Ritika Gaikwad,Voice Frontline,Bengaluru,1,8998.0
+2025-01,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,2,8173.0
+2025-01,A3033,Vikram Banerjee,Billing,Bengaluru,1,6999.0
+2025-01,A3008,Meera Malhotra,Chat Frontline,Bengaluru,1,6649.0
+2025-01,A3034,Tanvi Rathore,Billing,Indore,4,6378.0
+2025-01,A3031,Zaid Desai,Logistics,Indore,3,5597.0
+2025-01,A3020,Aadhya Singh,Email Frontline,Bengaluru,1,5399.0
+2025-01,A3038,Ankit Dhillon,Returns Desk,Bengaluru,1,4999.0
+2025-01,A3006,Varun Bhatt,Chat Frontline,Bengaluru,1,4249.0
+2025-01,A3019,Kavya Agarwal,Email Frontline,Indore,1,4248.0
+2025-01,A3035,Dev Kulkarni,Billing,Bengaluru,2,4173.0
+2025-01,A3030,Aishwarya Trivedi,Logistics,Indore,1,3999.0
+2025-01,A3022,Daniel Arora,Email Frontline,Indore,2,3398.0
+2025-01,A3029,Rajat Mukherjee,Logistics,Bengaluru,2,3217.0
+2025-01,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,2,2787.0
+2025-01,A3003,Komal Singh,Chat Frontline,Indore,1,2499.0
+2025-01,A3007,Abhishek Gupta,Chat Frontline,Indore,1,2499.0
+2025-01,A3009,Sukhwinder Singh,Chat Frontline,Indore,1,2124.0
+2025-01,A3018,Krishna Bhatt,Email Frontline,Indore,3,1841.0
+2025-01,A3002,Steven Ansari,Chat Frontline,Indore,1,1799.0
+2025-01,A3028,Sameer Kapoor,Logistics,Indore,1,1599.0
+2025-01,A3005,Payal Bhatia,Chat Frontline,Indore,2,1490.0
+2025-01,A3040,Thomas Jadhav,Escalations & Warranty,Bengaluru,1,900.0
+2025-01,A3015,Sameer Jadhav,Chat Frontline,Bengaluru,1,288.0
+2025-01,A3013,Rohit Nair,Chat Frontline,Bengaluru,1,270.0
+2025-02,A3030,Aishwarya Trivedi,Logistics,Indore,8,35576.0
+2025-02,A3035,Dev Kulkarni,Billing,Bengaluru,4,16316.0
+2025-02,A3036,Ritika D'Souza,Returns Desk,Indore,6,12994.0
+2025-02,A3033,Vikram Banerjee,Billing,Bengaluru,3,12843.0
+2025-02,A3032,Sneha Bansal,Billing,Indore,4,10297.0
+2025-02,A3038,Ankit Dhillon,Returns Desk,Bengaluru,5,9633.0
+2025-02,A3018,Krishna Bhatt,Email Frontline,Indore,2,7708.0
+2025-02,A3034,Tanvi Rathore,Billing,Indore,5,7038.0
+2025-02,A3012,Lakshmi Srivastava,Chat Frontline,Bengaluru,1,6999.0
+2025-02,A3002,Steven Ansari,Chat Frontline,Indore,1,5849.0
+2025-02,A3025,Komal Malhotra,Voice Frontline,Bengaluru,1,5599.0
+2025-02,A3040,Thomas Jadhav,Escalations & Warranty,Bengaluru,1,5599.0
+2025-02,A3029,Rajat Mukherjee,Logistics,Bengaluru,3,4973.0
+2025-02,A3017,Kabir Singh,Email Frontline,Indore,1,4749.0
+2025-02,A3037,Manish Iyer,Returns Desk,Indore,3,4480.0
+2025-02,A3003,Komal Singh,Chat Frontline,Indore,1,4248.0
+2025-02,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,2,4219.0
+2025-02,A3027,Priya Agarwal,Logistics,Indore,1,2499.0
+2025-02,A3031,Zaid Desai,Logistics,Indore,1,2499.0
+2025-02,A3007,Abhishek Gupta,Chat Frontline,Indore,1,1999.0
+2025-02,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,1,1999.0
+2025-02,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,1,1899.0
+2025-02,A3016,Thomas Kumar,Email Frontline,Indore,1,1709.0
+2025-02,A3042,Swati Bhatia,Escalations & Warranty,Indore,1,1619.0
+2025-02,A3006,Varun Bhatt,Chat Frontline,Bengaluru,1,1439.0
+2025-02,A3022,Daniel Arora,Email Frontline,Indore,1,1299.0
+2025-02,A3023,Ritika Gaikwad,Voice Frontline,Bengaluru,1,900.0
+2025-02,A3028,Sameer Kapoor,Logistics,Indore,1,720.0
+2025-02,A3019,Kavya Agarwal,Email Frontline,Indore,1,237.0
+2025-03,A3036,Ritika D'Souza,Returns Desk,Indore,16,44319.0
+2025-03,A3035,Dev Kulkarni,Billing,Bengaluru,10,31853.0
+2025-03,A3034,Tanvi Rathore,Billing,Indore,10,31221.0
+2025-03,A3038,Ankit Dhillon,Returns Desk,Bengaluru,6,19170.0
+2025-03,A3013,Rohit Nair,Chat Frontline,Bengaluru,3,17247.0
+2025-03,A3030,Aishwarya Trivedi,Logistics,Indore,3,17096.0
+2025-03,A3037,Manish Iyer,Returns Desk,Indore,7,16911.0
+2025-03,A3032,Sneha Bansal,Billing,Indore,4,16222.0
+2025-03,A3018,Krishna Bhatt,Email Frontline,Indore,2,12848.0
+2025-03,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,3,12597.0
+2025-03,A3033,Vikram Banerjee,Billing,Bengaluru,5,11565.0
+2025-03,A3031,Zaid Desai,Logistics,Indore,1,6999.0
+2025-03,A3001,Suresh Kaur,Chat Frontline,Indore,1,6649.0
+2025-03,A3017,Kabir Singh,Email Frontline,Indore,3,6472.0
+2025-03,A3015,Sameer Jadhav,Chat Frontline,Bengaluru,1,6299.0
+2025-03,A3016,Thomas Kumar,Email Frontline,Indore,1,6299.0
+2025-03,A3027,Priya Agarwal,Logistics,Indore,2,5618.0
+2025-03,A3014,Anjali D'Souza,Chat Frontline,Bengaluru,2,3848.0
+2025-03,A3002,Steven Ansari,Chat Frontline,Indore,2,2699.0
+2025-03,A3019,Kavya Agarwal,Email Frontline,Indore,2,2549.0
+2025-03,A3012,Lakshmi Srivastava,Chat Frontline,Bengaluru,1,2500.0
+2025-03,A3020,Aadhya Singh,Email Frontline,Bengaluru,1,2499.0
+2025-03,A3028,Sameer Kapoor,Logistics,Indore,1,2374.0
+2025-03,A3021,Meera Mathew,Email Frontline,Bengaluru,1,1799.0
+2025-03,A3024,Amit Deshpande,Voice Frontline,Bengaluru,1,1529.0
+2025-03,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,1,1040.0
+2025-03,A3011,Rohit Gill,Chat Frontline,Bengaluru,1,375.0
+2025-04,A3036,Ritika D'Souza,Returns Desk,Indore,11,29356.0
+2025-04,A3035,Dev Kulkarni,Billing,Bengaluru,7,28544.0
+2025-04,A3038,Ankit Dhillon,Returns Desk,Bengaluru,8,25058.0
+2025-04,A3033,Vikram Banerjee,Billing,Bengaluru,8,23432.0
+2025-04,A3034,Tanvi Rathore,Billing,Indore,4,17375.0
+2025-04,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,3,16446.0
+2025-04,A3037,Manish Iyer,Returns Desk,Indore,5,15442.0
+2025-04,A3030,Aishwarya Trivedi,Logistics,Indore,4,13937.0
+2025-04,A3020,Aadhya Singh,Email Frontline,Bengaluru,3,8748.0
+2025-04,A3028,Sameer Kapoor,Logistics,Indore,4,8210.0
+2025-04,A3017,Kabir Singh,Email Frontline,Indore,2,7898.0
+2025-04,A3002,Steven Ansari,Chat Frontline,Indore,1,6499.0
+2025-04,A3014,Anjali D'Souza,Chat Frontline,Bengaluru,1,6499.0
+2025-04,A3029,Rajat Mukherjee,Logistics,Bengaluru,1,5949.0
+2025-04,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,1,5524.0
+2025-04,A3044,Arjun Kumar,Escalations & Warranty,Bengaluru,1,5199.0
+2025-04,A3018,Krishna Bhatt,Email Frontline,Indore,3,4288.0
+2025-04,A3007,Abhishek Gupta,Chat Frontline,Indore,1,4249.0
+2025-04,A3016,Thomas Kumar,Email Frontline,Indore,1,3598.0
+2025-04,A3011,Rohit Gill,Chat Frontline,Bengaluru,1,2374.0
+2025-04,A3022,Daniel Arora,Email Frontline,Indore,1,2249.0
+2025-04,A3001,Suresh Kaur,Chat Frontline,Indore,2,2199.0
+2025-04,A3009,Sukhwinder Singh,Chat Frontline,Indore,1,1999.0
+2025-04,A3005,Payal Bhatia,Chat Frontline,Indore,1,1799.0
+2025-04,A3013,Rohit Nair,Chat Frontline,Bengaluru,1,1799.0
+2025-04,A3031,Zaid Desai,Logistics,Indore,1,800.0
+2025-04,A3006,Varun Bhatt,Chat Frontline,Bengaluru,1,475.0
+2025-04,A3032,Sneha Bansal,Billing,Indore,1,144.0
+2025-05,A3035,Dev Kulkarni,Billing,Bengaluru,12,37673.0
+2025-05,A3036,Ritika D'Souza,Returns Desk,Indore,9,26226.0
+2025-05,A3030,Aishwarya Trivedi,Logistics,Indore,7,20992.0
+2025-05,A3037,Manish Iyer,Returns Desk,Indore,9,20677.0
+2025-05,A3034,Tanvi Rathore,Billing,Indore,4,15151.0
+2025-05,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,6,11702.0
+2025-05,A3032,Sneha Bansal,Billing,Indore,5,11397.0
+2025-05,A3008,Meera Malhotra,Chat Frontline,Bengaluru,2,11373.0
+2025-05,A3028,Sameer Kapoor,Logistics,Indore,3,8518.0
+2025-05,A3038,Ankit Dhillon,Returns Desk,Bengaluru,4,7198.0
+2025-05,A3018,Krishna Bhatt,Email Frontline,Indore,1,5699.0
+2025-05,A3027,Priya Agarwal,Logistics,Indore,1,5399.0
+2025-05,A3023,Ritika Gaikwad,Voice Frontline,Bengaluru,2,5323.0
+2025-05,A3014,Anjali D'Souza,Chat Frontline,Bengaluru,2,4909.0
+2025-05,A3017,Kabir Singh,Email Frontline,Indore,2,3698.0
+2025-05,A3012,Lakshmi Srivastava,Chat Frontline,Bengaluru,2,3528.0
+2025-05,A3022,Daniel Arora,Email Frontline,Indore,1,3087.0
+2025-05,A3033,Vikram Banerjee,Billing,Bengaluru,3,2653.0
+2025-05,A3006,Varun Bhatt,Chat Frontline,Bengaluru,1,2499.0
+2025-05,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,1,1899.0
+2025-05,A3001,Suresh Kaur,Chat Frontline,Indore,1,1439.0
+2025-05,A3043,Nikhil Gupta,Escalations & Warranty,Bengaluru,1,1300.0
+2025-05,A3005,Payal Bhatia,Chat Frontline,Indore,1,1299.0
+2025-05,A3011,Rohit Gill,Chat Frontline,Bengaluru,1,1170.0
+2025-05,A3031,Zaid Desai,Logistics,Indore,1,780.0
+2025-05,A3015,Sameer Jadhav,Chat Frontline,Bengaluru,1,750.0
+2025-05,A3020,Aadhya Singh,Email Frontline,Bengaluru,1,630.0
+2025-05,A3007,Abhishek Gupta,Chat Frontline,Indore,1,375.0
+2025-05,A3029,Rajat Mukherjee,Logistics,Bengaluru,1,120.0
+2025-06,A3036,Ritika D'Souza,Returns Desk,Indore,11,39944.0
+2025-06,A3038,Ankit Dhillon,Returns Desk,Bengaluru,8,27168.0
+2025-06,A3033,Vikram Banerjee,Billing,Bengaluru,5,17976.0
+2025-06,A3032,Sneha Bansal,Billing,Indore,5,17870.0
+2025-06,A3035,Dev Kulkarni,Billing,Bengaluru,8,17364.0
+2025-06,A3028,Sameer Kapoor,Logistics,Indore,4,13784.0
+2025-06,A3001,Suresh Kaur,Chat Frontline,Indore,2,13148.0
+2025-06,A3030,Aishwarya Trivedi,Logistics,Indore,2,12197.0
+2025-06,A3027,Priya Agarwal,Logistics,Indore,4,9923.0
+2025-06,A3020,Aadhya Singh,Email Frontline,Bengaluru,3,9810.0
+2025-06,A3037,Manish Iyer,Returns Desk,Indore,6,9501.0
+2025-06,A3017,Kabir Singh,Email Frontline,Indore,1,6999.0
+2025-06,A3018,Krishna Bhatt,Email Frontline,Indore,3,6997.0
+2025-06,A3002,Steven Ansari,Chat Frontline,Indore,2,6791.0
+2025-06,A3044,Arjun Kumar,Escalations & Warranty,Bengaluru,2,6098.0
+2025-06,A3034,Tanvi Rathore,Billing,Indore,3,5797.0
+2025-06,A3012,Lakshmi Srivastava,Chat Frontline,Bengaluru,3,5597.0
+2025-06,A3004,Geeta Dutta,Chat Frontline,Bengaluru,1,5524.0
+2025-06,A3011,Rohit Gill,Chat Frontline,Bengaluru,2,3998.0
+2025-06,A3031,Zaid Desai,Logistics,Indore,2,3673.0
+2025-06,A3005,Payal Bhatia,Chat Frontline,Indore,1,3238.0
+2025-06,A3014,Anjali D'Souza,Chat Frontline,Bengaluru,1,2974.0
+2025-06,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,1,2499.0
+2025-06,A3029,Rajat Mukherjee,Logistics,Bengaluru,1,2124.0
+2025-06,A3022,Daniel Arora,Email Frontline,Indore,1,1799.0
+2025-06,A3040,Thomas Jadhav,Escalations & Warranty,Bengaluru,1,1699.0
+2025-06,A3009,Sukhwinder Singh,Chat Frontline,Indore,1,1499.0
+2025-06,A3023,Ritika Gaikwad,Voice Frontline,Bengaluru,1,1300.0
+2025-06,A3006,Varun Bhatt,Chat Frontline,Bengaluru,1,1274.0
+2025-06,A3003,Komal Singh,Chat Frontline,Indore,1,1104.0
+2025-06,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,1,200.0
+2025-07,A3030,Aishwarya Trivedi,Logistics,Indore,12,38573.0
+2025-07,A3035,Dev Kulkarni,Billing,Bengaluru,14,35935.0
+2025-07,A3036,Ritika D'Souza,Returns Desk,Indore,9,25591.0
+2025-07,A3029,Rajat Mukherjee,Logistics,Bengaluru,4,23620.0
+2025-07,A3034,Tanvi Rathore,Billing,Indore,5,22011.0
+2025-07,A3037,Manish Iyer,Returns Desk,Indore,5,18171.0
+2025-07,A3032,Sneha Bansal,Billing,Indore,8,18020.0
+2025-07,A3027,Priya Agarwal,Logistics,Indore,4,17656.0
+2025-07,A3013,Rohit Nair,Chat Frontline,Bengaluru,4,15150.0
+2025-07,A3028,Sameer Kapoor,Logistics,Indore,3,13747.0
+2025-07,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,4,13452.0
+2025-07,A3044,Arjun Kumar,Escalations & Warranty,Bengaluru,2,13173.0
+2025-07,A3033,Vikram Banerjee,Billing,Bengaluru,5,11056.0
+2025-07,A3038,Ankit Dhillon,Returns Desk,Bengaluru,6,7305.0
+2025-07,A3004,Geeta Dutta,Chat Frontline,Bengaluru,2,7218.0
+2025-07,A3016,Thomas Kumar,Email Frontline,Indore,2,6704.0
+2025-07,A3031,Zaid Desai,Logistics,Indore,3,6497.0
+2025-07,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,4,6472.0
+2025-07,A3009,Sukhwinder Singh,Chat Frontline,Indore,3,6298.0
+2025-07,A3041,Mohammed Mehta,Escalations & Warranty,Bengaluru,1,5849.0
+2025-07,A3014,Anjali D'Souza,Chat Frontline,Bengaluru,3,5443.0
+2025-07,A3015,Sameer Jadhav,Chat Frontline,Bengaluru,2,5299.0
+2025-07,A3001,Suresh Kaur,Chat Frontline,Indore,2,5194.0
+2025-07,A3020,Aadhya Singh,Email Frontline,Bengaluru,1,4499.0
+2025-07,A3018,Krishna Bhatt,Email Frontline,Indore,2,4149.0
+2025-07,A3022,Daniel Arora,Email Frontline,Indore,1,3499.0
+2025-07,A3024,Amit Deshpande,Voice Frontline,Bengaluru,1,2799.0
+2025-07,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,1,2499.0
+2025-07,A3002,Steven Ansari,Chat Frontline,Indore,2,2486.0
+2025-07,A3017,Kabir Singh,Email Frontline,Indore,1,2374.0
+2025-07,A3005,Payal Bhatia,Chat Frontline,Indore,1,2124.0
+2025-07,A3021,Meera Mathew,Email Frontline,Bengaluru,1,2124.0
+2025-07,A3012,Lakshmi Srivastava,Chat Frontline,Bengaluru,1,1999.0
+2025-08,A3036,Ritika D'Souza,Returns Desk,Indore,16,43299.0
+2025-08,A3030,Aishwarya Trivedi,Logistics,Indore,11,42230.0
+2025-08,A3038,Ankit Dhillon,Returns Desk,Bengaluru,13,39245.0
+2025-08,A3037,Manish Iyer,Returns Desk,Indore,10,30572.0
+2025-08,A3035,Dev Kulkarni,Billing,Bengaluru,12,26817.0
+2025-08,A3033,Vikram Banerjee,Billing,Bengaluru,7,23519.0
+2025-08,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,3,15197.0
+2025-08,A3007,Abhishek Gupta,Chat Frontline,Indore,4,13936.0
+2025-08,A3029,Rajat Mukherjee,Logistics,Bengaluru,3,12097.0
+2025-08,A3017,Kabir Singh,Email Frontline,Indore,3,11617.0
+2025-08,A3034,Tanvi Rathore,Billing,Indore,6,10203.0
+2025-08,A3014,Anjali D'Souza,Chat Frontline,Bengaluru,3,10097.0
+2025-08,A3018,Krishna Bhatt,Email Frontline,Indore,4,7104.0
+2025-08,A3011,Rohit Gill,Chat Frontline,Bengaluru,1,6499.0
+2025-08,A3001,Suresh Kaur,Chat Frontline,Indore,1,6299.0
+2025-08,A3032,Sneha Bansal,Billing,Indore,5,6179.0
+2025-08,A3042,Swati Bhatia,Escalations & Warranty,Indore,1,5999.0
+2025-08,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,2,5998.0
+2025-08,A3031,Zaid Desai,Logistics,Indore,2,5616.0
+2025-08,A3025,Komal Malhotra,Voice Frontline,Bengaluru,2,5473.0
+2025-08,A3022,Daniel Arora,Email Frontline,Indore,2,5323.0
+2025-08,A3028,Sameer Kapoor,Logistics,Indore,2,5298.0
+2025-08,A3005,Payal Bhatia,Chat Frontline,Indore,2,4309.0
+2025-08,A3006,Varun Bhatt,Chat Frontline,Bengaluru,2,4173.0
+2025-08,A3027,Priya Agarwal,Logistics,Indore,1,3499.0
+2025-08,A3044,Arjun Kumar,Escalations & Warranty,Bengaluru,1,3499.0
+2025-08,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,1,3149.0
+2025-08,A3004,Geeta Dutta,Chat Frontline,Bengaluru,1,2878.0
+2025-08,A3041,Mohammed Mehta,Escalations & Warranty,Bengaluru,1,2499.0
+2025-08,A3040,Thomas Jadhav,Escalations & Warranty,Bengaluru,1,1999.0
+2025-08,A3008,Meera Malhotra,Chat Frontline,Bengaluru,1,1799.0
+2025-08,A3012,Lakshmi Srivastava,Chat Frontline,Bengaluru,1,1400.0
+2025-09,A3038,Ankit Dhillon,Returns Desk,Bengaluru,14,52562.0
+2025-09,A3035,Dev Kulkarni,Billing,Bengaluru,16,51543.0
+2025-09,A3036,Ritika D'Souza,Returns Desk,Indore,14,46747.0
+2025-09,A3037,Manish Iyer,Returns Desk,Indore,13,32436.0
+2025-09,A3018,Krishna Bhatt,Email Frontline,Indore,9,28262.0
+2025-09,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,6,28145.0
+2025-09,A3030,Aishwarya Trivedi,Logistics,Indore,8,23394.0
+2025-09,A3028,Sameer Kapoor,Logistics,Indore,6,20469.0
+2025-09,A3034,Tanvi Rathore,Billing,Indore,9,18356.0
+2025-09,A3032,Sneha Bansal,Billing,Indore,8,16945.0
+2025-09,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,5,14051.0
+2025-09,A3015,Sameer Jadhav,Chat Frontline,Bengaluru,5,13652.0
+2025-09,A3033,Vikram Banerjee,Billing,Bengaluru,6,13486.0
+2025-09,A3013,Rohit Nair,Chat Frontline,Bengaluru,3,12865.0
+2025-09,A3029,Rajat Mukherjee,Logistics,Bengaluru,2,12797.0
+2025-09,A3031,Zaid Desai,Logistics,Indore,4,12546.0
+2025-09,A3024,Amit Deshpande,Voice Frontline,Bengaluru,2,11898.0
+2025-09,A3027,Priya Agarwal,Logistics,Indore,3,10772.0
+2025-09,A3006,Varun Bhatt,Chat Frontline,Bengaluru,3,9197.0
+2025-09,A3003,Komal Singh,Chat Frontline,Indore,2,7973.0
+2025-09,A3005,Payal Bhatia,Chat Frontline,Indore,3,7183.0
+2025-09,A3043,Nikhil Gupta,Escalations & Warranty,Bengaluru,1,4999.0
+2025-09,A3025,Komal Malhotra,Voice Frontline,Bengaluru,2,4503.0
+2025-09,A3016,Thomas Kumar,Email Frontline,Indore,2,3598.0
+2025-09,A3008,Meera Malhotra,Chat Frontline,Bengaluru,2,3466.0
+2025-09,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,2,3293.0
+2025-09,A3014,Anjali D'Souza,Chat Frontline,Bengaluru,1,2974.0
+2025-09,A3007,Abhishek Gupta,Chat Frontline,Indore,1,2799.0
+2025-09,A3017,Kabir Singh,Email Frontline,Indore,1,2799.0
+2025-09,A3020,Aadhya Singh,Email Frontline,Bengaluru,1,1999.0
+2025-09,A3004,Geeta Dutta,Chat Frontline,Bengaluru,2,1601.0
+2025-09,A3002,Steven Ansari,Chat Frontline,Indore,1,1234.0
+2025-09,A3009,Sukhwinder Singh,Chat Frontline,Indore,1,1234.0
+2025-09,A3040,Thomas Jadhav,Escalations & Warranty,Bengaluru,1,1187.0
+2025-09,A3022,Daniel Arora,Email Frontline,Indore,1,1039.0
+2025-09,A3021,Meera Mathew,Email Frontline,Bengaluru,1,280.0
+2025-10,A3036,Ritika D'Souza,Returns Desk,Indore,22,72977.0
+2025-10,A3035,Dev Kulkarni,Billing,Bengaluru,28,68698.0
+2025-10,A3033,Vikram Banerjee,Billing,Bengaluru,9,41941.0
+2025-10,A3032,Sneha Bansal,Billing,Indore,15,38519.0
+2025-10,A3038,Ankit Dhillon,Returns Desk,Bengaluru,12,36394.0
+2025-10,A3030,Aishwarya Trivedi,Logistics,Indore,12,27521.0
+2025-10,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,5,24895.0
+2025-10,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,4,22015.0
+2025-10,A3037,Manish Iyer,Returns Desk,Indore,6,16653.0
+2025-10,A3017,Kabir Singh,Email Frontline,Indore,5,15120.0
+2025-10,A3005,Payal Bhatia,Chat Frontline,Indore,4,14820.0
+2025-10,A3018,Krishna Bhatt,Email Frontline,Indore,8,14117.0
+2025-10,A3011,Rohit Gill,Chat Frontline,Bengaluru,4,13997.0
+2025-10,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,3,13337.0
+2025-10,A3023,Ritika Gaikwad,Voice Frontline,Bengaluru,2,12397.0
+2025-10,A3001,Suresh Kaur,Chat Frontline,Indore,3,12097.0
+2025-10,A3002,Steven Ansari,Chat Frontline,Indore,3,11799.0
+2025-10,A3028,Sameer Kapoor,Logistics,Indore,3,11623.0
+2025-10,A3034,Tanvi Rathore,Billing,Indore,8,11618.0
+2025-10,A3012,Lakshmi Srivastava,Chat Frontline,Bengaluru,3,10772.0
+2025-10,A3009,Sukhwinder Singh,Chat Frontline,Indore,5,9822.0
+2025-10,A3006,Varun Bhatt,Chat Frontline,Bengaluru,2,9797.0
+2025-10,A3016,Thomas Kumar,Email Frontline,Indore,3,9723.0
+2025-10,A3029,Rajat Mukherjee,Logistics,Bengaluru,3,7672.0
+2025-10,A3004,Geeta Dutta,Chat Frontline,Bengaluru,2,7323.0
+2025-10,A3031,Zaid Desai,Logistics,Indore,2,6473.0
+2025-10,A3021,Meera Mathew,Email Frontline,Bengaluru,2,6123.0
+2025-10,A3022,Daniel Arora,Email Frontline,Indore,1,5999.0
+2025-10,A3020,Aadhya Singh,Email Frontline,Bengaluru,1,5399.0
+2025-10,A3003,Komal Singh,Chat Frontline,Indore,1,4499.0
+2025-10,A3042,Swati Bhatia,Escalations & Warranty,Indore,1,3500.0
+2025-10,A3027,Priya Agarwal,Logistics,Indore,1,3499.0
+2025-10,A3008,Meera Malhotra,Chat Frontline,Bengaluru,1,2499.0
+2025-10,A3014,Anjali D'Souza,Chat Frontline,Bengaluru,1,1999.0
+2025-11,A3036,Ritika D'Souza,Returns Desk,Indore,24,81160.0
+2025-11,A3030,Aishwarya Trivedi,Logistics,Indore,22,69740.0
+2025-11,A3035,Dev Kulkarni,Billing,Bengaluru,17,42935.0
+2025-11,A3033,Vikram Banerjee,Billing,Bengaluru,13,39015.0
+2025-11,A3038,Ankit Dhillon,Returns Desk,Bengaluru,12,36073.0
+2025-11,A3032,Sneha Bansal,Billing,Indore,8,35342.0
+2025-11,A3037,Manish Iyer,Returns Desk,Indore,16,26173.0
+2025-11,A3034,Tanvi Rathore,Billing,Indore,9,22555.0
+2025-11,A3027,Priya Agarwal,Logistics,Indore,3,21671.0
+2025-11,A3016,Thomas Kumar,Email Frontline,Indore,2,20996.0
+2025-11,A3018,Krishna Bhatt,Email Frontline,Indore,8,16235.0
+2025-11,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,4,15171.0
+2025-11,A3011,Rohit Gill,Chat Frontline,Bengaluru,3,14882.0
+2025-11,A3029,Rajat Mukherjee,Logistics,Bengaluru,5,13322.0
+2025-11,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,2,11148.0
+2025-11,A3003,Komal Singh,Chat Frontline,Indore,3,10777.0
+2025-11,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,3,9268.0
+2025-11,A3042,Swati Bhatia,Escalations & Warranty,Indore,3,9164.0
+2025-11,A3015,Sameer Jadhav,Chat Frontline,Bengaluru,3,8723.0
+2025-11,A3012,Lakshmi Srivastava,Chat Frontline,Bengaluru,3,8272.0
+2025-11,A3013,Rohit Nair,Chat Frontline,Bengaluru,3,7357.0
+2025-11,A3005,Payal Bhatia,Chat Frontline,Indore,2,7287.0
+2025-11,A3007,Abhishek Gupta,Chat Frontline,Indore,1,6499.0
+2025-11,A3044,Arjun Kumar,Escalations & Warranty,Bengaluru,1,6174.0
+2025-11,A3006,Varun Bhatt,Chat Frontline,Bengaluru,1,5999.0
+2025-11,A3002,Steven Ansari,Chat Frontline,Indore,1,4749.0
+2025-11,A3028,Sameer Kapoor,Logistics,Indore,3,4113.0
+2025-11,A3024,Amit Deshpande,Voice Frontline,Bengaluru,2,4024.0
+2025-11,A3031,Zaid Desai,Logistics,Indore,2,3563.0
+2025-11,A3019,Kavya Agarwal,Email Frontline,Indore,1,3149.0
+2025-11,A3017,Kabir Singh,Email Frontline,Indore,1,2799.0
+2025-11,A3014,Anjali D'Souza,Chat Frontline,Bengaluru,1,2499.0
+2025-11,A3021,Meera Mathew,Email Frontline,Bengaluru,1,2499.0
+2025-11,A3041,Mohammed Mehta,Escalations & Warranty,Bengaluru,1,1439.0
+2025-11,A3020,Aadhya Singh,Email Frontline,Bengaluru,1,1000.0
+2025-11,A3025,Komal Malhotra,Voice Frontline,Bengaluru,1,212.0
+2025-12,A3035,Dev Kulkarni,Billing,Bengaluru,19,57010.0
+2025-12,A3036,Ritika D'Souza,Returns Desk,Indore,18,47096.0
+2025-12,A3038,Ankit Dhillon,Returns Desk,Bengaluru,14,44216.0
+2025-12,A3002,Steven Ansari,Chat Frontline,Indore,5,29570.0
+2025-12,A3032,Sneha Bansal,Billing,Indore,9,27839.0
+2025-12,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,9,23690.0
+2025-12,A3018,Krishna Bhatt,Email Frontline,Indore,6,23375.0
+2025-12,A3037,Manish Iyer,Returns Desk,Indore,13,23248.0
+2025-12,A3033,Vikram Banerjee,Billing,Bengaluru,10,20452.0
+2025-12,A3028,Sameer Kapoor,Logistics,Indore,5,19521.0
+2025-12,A3021,Meera Mathew,Email Frontline,Bengaluru,3,15622.0
+2025-12,A3015,Sameer Jadhav,Chat Frontline,Bengaluru,5,14856.0
+2025-12,A3030,Aishwarya Trivedi,Logistics,Indore,8,14459.0
+2025-12,A3031,Zaid Desai,Logistics,Indore,6,14090.0
+2025-12,A3034,Tanvi Rathore,Billing,Indore,5,13980.0
+2025-12,A3007,Abhishek Gupta,Chat Frontline,Indore,3,13322.0
+2025-12,A3029,Rajat Mukherjee,Logistics,Bengaluru,3,10062.0
+2025-12,A3022,Daniel Arora,Email Frontline,Indore,3,7115.0
+2025-12,A3027,Priya Agarwal,Logistics,Indore,3,6823.0
+2025-12,A3008,Meera Malhotra,Chat Frontline,Bengaluru,1,6499.0
+2025-12,A3003,Komal Singh,Chat Frontline,Indore,1,6299.0
+2025-12,A3013,Rohit Nair,Chat Frontline,Bengaluru,2,5998.0
+2025-12,A3009,Sukhwinder Singh,Chat Frontline,Indore,2,4508.0
+2025-12,A3006,Varun Bhatt,Chat Frontline,Bengaluru,3,4394.0
+2025-12,A3019,Kavya Agarwal,Email Frontline,Indore,3,4024.0
+2025-12,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,2,3299.0
+2025-12,A3014,Anjali D'Souza,Chat Frontline,Bengaluru,1,2799.0
+2025-12,A3025,Komal Malhotra,Voice Frontline,Bengaluru,1,2499.0
+2025-12,A3012,Lakshmi Srivastava,Chat Frontline,Bengaluru,1,1999.0
+2025-12,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,1,1999.0
+2025-12,A3043,Nikhil Gupta,Escalations & Warranty,Bengaluru,1,1999.0
+2025-12,A3024,Amit Deshpande,Voice Frontline,Bengaluru,1,1105.0
+2025-12,A3001,Suresh Kaur,Chat Frontline,Indore,1,630.0
+2025-12,A3005,Payal Bhatia,Chat Frontline,Indore,1,560.0
+2025-12,A3016,Thomas Kumar,Email Frontline,Indore,1,525.0
+2025-12,A3017,Kabir Singh,Email Frontline,Indore,1,472.0
+2026-01,A3036,Ritika D'Souza,Returns Desk,Indore,17,60606.0
+2026-01,A3032,Sneha Bansal,Billing,Indore,8,41567.0
+2026-01,A3035,Dev Kulkarni,Billing,Bengaluru,14,33933.0
+2026-01,A3038,Ankit Dhillon,Returns Desk,Bengaluru,11,29485.0
+2026-01,A3034,Tanvi Rathore,Billing,Indore,9,23439.0
+2026-01,A3018,Krishna Bhatt,Email Frontline,Indore,9,19991.0
+2026-01,A3030,Aishwarya Trivedi,Logistics,Indore,6,18850.0
+2026-01,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,5,17596.0
+2026-01,A3029,Rajat Mukherjee,Logistics,Bengaluru,3,17096.0
+2026-01,A3037,Manish Iyer,Returns Desk,Indore,7,16849.0
+2026-01,A3033,Vikram Banerjee,Billing,Bengaluru,8,13655.0
+2026-01,A3011,Rohit Gill,Chat Frontline,Bengaluru,3,13297.0
+2026-01,A3028,Sameer Kapoor,Logistics,Indore,4,12970.0
+2026-01,A3013,Rohit Nair,Chat Frontline,Bengaluru,4,11665.0
+2026-01,A3009,Sukhwinder Singh,Chat Frontline,Indore,4,10722.0
+2026-01,A3004,Geeta Dutta,Chat Frontline,Bengaluru,3,10497.0
+2026-01,A3007,Abhishek Gupta,Chat Frontline,Indore,3,10147.0
+2026-01,A3003,Komal Singh,Chat Frontline,Indore,4,9721.0
+2026-01,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,2,9648.0
+2026-01,A3027,Priya Agarwal,Logistics,Indore,4,8972.0
+2026-01,A3031,Zaid Desai,Logistics,Indore,2,7998.0
+2026-01,A3017,Kabir Singh,Email Frontline,Indore,2,7398.0
+2026-01,A3008,Meera Malhotra,Chat Frontline,Bengaluru,4,7198.0
+2026-01,A3001,Suresh Kaur,Chat Frontline,Indore,1,5524.0
+2026-01,A3002,Steven Ansari,Chat Frontline,Indore,1,5199.0
+2026-01,A3016,Thomas Kumar,Email Frontline,Indore,3,4029.0
+2026-01,A3012,Lakshmi Srivastava,Chat Frontline,Bengaluru,2,3669.0
+2026-01,A3006,Varun Bhatt,Chat Frontline,Bengaluru,1,3499.0
+2026-01,A3024,Amit Deshpande,Voice Frontline,Bengaluru,1,3499.0
+2026-01,A3015,Sameer Jadhav,Chat Frontline,Bengaluru,1,2974.0
+2026-01,A3005,Payal Bhatia,Chat Frontline,Indore,1,1999.0
+2026-01,A3021,Meera Mathew,Email Frontline,Bengaluru,1,1699.0
+2026-01,A3042,Swati Bhatia,Escalations & Warranty,Indore,2,1439.0
+2026-01,A3014,Anjali D'Souza,Chat Frontline,Bengaluru,1,1299.0
+2026-01,A3043,Nikhil Gupta,Escalations & Warranty,Bengaluru,1,1039.0
+2026-01,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,1,700.0
+2026-02,A3036,Ritika D'Souza,Returns Desk,Indore,17,46543.0
+2026-02,A3038,Ankit Dhillon,Returns Desk,Bengaluru,17,45029.0
+2026-02,A3035,Dev Kulkarni,Billing,Bengaluru,13,40929.0
+2026-02,A3037,Manish Iyer,Returns Desk,Indore,9,25758.0
+2026-02,A3033,Vikram Banerjee,Billing,Bengaluru,8,24512.0
+2026-02,A3018,Krishna Bhatt,Email Frontline,Indore,6,22919.0
+2026-02,A3032,Sneha Bansal,Billing,Indore,10,22713.0
+2026-02,A3027,Priya Agarwal,Logistics,Indore,4,19320.0
+2026-02,A3030,Aishwarya Trivedi,Logistics,Indore,6,15220.0
+2026-02,A3034,Tanvi Rathore,Billing,Indore,7,11802.0
+2026-02,A3021,Meera Mathew,Email Frontline,Bengaluru,2,9998.0
+2026-02,A3007,Abhishek Gupta,Chat Frontline,Indore,4,9779.0
+2026-02,A3028,Sameer Kapoor,Logistics,Indore,4,7542.0
+2026-02,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,4,7529.0
+2026-02,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,3,6893.0
+2026-02,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,2,6718.0
+2026-02,A3042,Swati Bhatia,Escalations & Warranty,Indore,1,5949.0
+2026-02,A3005,Payal Bhatia,Chat Frontline,Indore,3,5463.0
+2026-02,A3031,Zaid Desai,Logistics,Indore,2,5298.0
+2026-02,A3016,Thomas Kumar,Email Frontline,Indore,2,4768.0
+2026-02,A3029,Rajat Mukherjee,Logistics,Bengaluru,4,4223.0
+2026-02,A3023,Ritika Gaikwad,Voice Frontline,Bengaluru,1,3999.0
+2026-02,A3003,Komal Singh,Chat Frontline,Indore,2,3919.0
+2026-02,A3002,Steven Ansari,Chat Frontline,Indore,1,3499.0
+2026-02,A3014,Anjali D'Souza,Chat Frontline,Bengaluru,1,3499.0
+2026-02,A3020,Aadhya Singh,Email Frontline,Bengaluru,1,2799.0
+2026-02,A3017,Kabir Singh,Email Frontline,Indore,2,2774.0
+2026-02,A3041,Mohammed Mehta,Escalations & Warranty,Bengaluru,1,2499.0
+2026-02,A3009,Sukhwinder Singh,Chat Frontline,Indore,1,585.0
+2026-02,A3022,Daniel Arora,Email Frontline,Indore,1,319.0
+2026-03,A3035,Dev Kulkarni,Billing,Bengaluru,20,52164.0
+2026-03,A3030,Aishwarya Trivedi,Logistics,Indore,14,47456.0
+2026-03,A3037,Manish Iyer,Returns Desk,Indore,12,41043.0
+2026-03,A3038,Ankit Dhillon,Returns Desk,Bengaluru,13,35253.0
+2026-03,A3033,Vikram Banerjee,Billing,Bengaluru,7,19087.0
+2026-03,A3036,Ritika D'Souza,Returns Desk,Indore,10,18475.0
+2026-03,A3031,Zaid Desai,Logistics,Indore,8,18227.0
+2026-03,A3029,Rajat Mukherjee,Logistics,Bengaluru,4,17521.0
+2026-03,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,4,16295.0
+2026-03,A3034,Tanvi Rathore,Billing,Indore,5,13035.0
+2026-03,A3041,Mohammed Mehta,Escalations & Warranty,Bengaluru,1,12348.0
+2026-03,A3014,Anjali D'Souza,Chat Frontline,Bengaluru,3,11706.0
+2026-03,A3016,Thomas Kumar,Email Frontline,Indore,6,10545.0
+2026-03,A3006,Varun Bhatt,Chat Frontline,Bengaluru,4,8992.0
+2026-03,A3003,Komal Singh,Chat Frontline,Indore,5,8856.0
+2026-03,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,3,8774.0
+2026-03,A3018,Krishna Bhatt,Email Frontline,Indore,6,8551.0
+2026-03,A3001,Suresh Kaur,Chat Frontline,Indore,2,8273.0
+2026-03,A3005,Payal Bhatia,Chat Frontline,Indore,3,8097.0
+2026-03,A3013,Rohit Nair,Chat Frontline,Bengaluru,2,6698.0
+2026-03,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,3,6532.0
+2026-03,A3007,Abhishek Gupta,Chat Frontline,Indore,2,6199.0
+2026-03,A3011,Rohit Gill,Chat Frontline,Bengaluru,2,6123.0
+2026-03,A3028,Sameer Kapoor,Logistics,Indore,2,5998.0
+2026-03,A3009,Sukhwinder Singh,Chat Frontline,Indore,2,5523.0
+2026-03,A3019,Kavya Agarwal,Email Frontline,Indore,3,5468.0
+2026-03,A3027,Priya Agarwal,Logistics,Indore,2,5098.0
+2026-03,A3040,Thomas Jadhav,Escalations & Warranty,Bengaluru,2,4853.0
+2026-03,A3024,Amit Deshpande,Voice Frontline,Bengaluru,2,4623.0
+2026-03,A3032,Sneha Bansal,Billing,Indore,3,4204.0
+2026-03,A3004,Geeta Dutta,Chat Frontline,Bengaluru,1,3499.0
+2026-03,A3002,Steven Ansari,Chat Frontline,Indore,2,3004.0
+2026-03,A3015,Sameer Jadhav,Chat Frontline,Bengaluru,2,1325.0
+2026-03,A3017,Kabir Singh,Email Frontline,Indore,1,1299.0
+2026-03,A3021,Meera Mathew,Email Frontline,Bengaluru,1,525.0
+2026-03,A3020,Aadhya Singh,Email Frontline,Bengaluru,1,104.0
+2026-04,A3036,Ritika D'Souza,Returns Desk,Indore,23,63031.0
+2026-04,A3037,Manish Iyer,Returns Desk,Indore,16,41400.0
+2026-04,A3038,Ankit Dhillon,Returns Desk,Bengaluru,13,37927.0
+2026-04,A3030,Aishwarya Trivedi,Logistics,Indore,10,31332.0
+2026-04,A3032,Sneha Bansal,Billing,Indore,10,23464.0
+2026-04,A3034,Tanvi Rathore,Billing,Indore,8,22688.0
+2026-04,A3018,Krishna Bhatt,Email Frontline,Indore,5,20719.0
+2026-04,A3035,Dev Kulkarni,Billing,Bengaluru,12,18840.0
+2026-04,A3027,Priya Agarwal,Logistics,Indore,5,15300.0
+2026-04,A3033,Vikram Banerjee,Billing,Bengaluru,4,13296.0
+2026-04,A3007,Abhishek Gupta,Chat Frontline,Indore,4,10672.0
+2026-04,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,5,10496.0
+2026-04,A3031,Zaid Desai,Logistics,Indore,4,10428.0
+2026-04,A3011,Rohit Gill,Chat Frontline,Bengaluru,2,9798.0
+2026-04,A3028,Sameer Kapoor,Logistics,Indore,3,8998.0
+2026-04,A3015,Sameer Jadhav,Chat Frontline,Bengaluru,3,8247.0
+2026-04,A3003,Komal Singh,Chat Frontline,Indore,2,6648.0
+2026-04,A3001,Suresh Kaur,Chat Frontline,Indore,1,6298.0
+2026-04,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,3,5973.0
+2026-04,A3017,Kabir Singh,Email Frontline,Indore,2,5298.0
+2026-04,A3021,Meera Mathew,Email Frontline,Bengaluru,2,4073.0
+2026-04,A3008,Meera Malhotra,Chat Frontline,Bengaluru,1,3149.0
+2026-04,A3023,Ritika Gaikwad,Voice Frontline,Bengaluru,1,3149.0
+2026-04,A3025,Komal Malhotra,Voice Frontline,Bengaluru,1,3149.0
+2026-04,A3002,Steven Ansari,Chat Frontline,Indore,1,2799.0
+2026-04,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,1,2499.0
+2026-04,A3013,Rohit Nair,Chat Frontline,Bengaluru,1,2499.0
+2026-04,A3006,Varun Bhatt,Chat Frontline,Bengaluru,2,2464.0
+2026-04,A3029,Rajat Mukherjee,Logistics,Bengaluru,2,1929.0
+2026-04,A3012,Lakshmi Srivastava,Chat Frontline,Bengaluru,2,1650.0
+2026-04,A3004,Geeta Dutta,Chat Frontline,Bengaluru,1,1529.0
+2026-04,A3040,Thomas Jadhav,Escalations & Warranty,Bengaluru,1,1299.0
+2026-04,A3041,Mohammed Mehta,Escalations & Warranty,Bengaluru,1,1000.0
+2026-04,A3020,Aadhya Singh,Email Frontline,Bengaluru,2,224.0
+2026-05,A3036,Ritika D'Souza,Returns Desk,Indore,23,55613.0
+2026-05,A3030,Aishwarya Trivedi,Logistics,Indore,14,48883.0
+2026-05,A3037,Manish Iyer,Returns Desk,Indore,16,34783.0
+2026-05,A3035,Dev Kulkarni,Billing,Bengaluru,12,30681.0
+2026-05,A3034,Tanvi Rathore,Billing,Indore,10,17261.0
+2026-05,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,3,17147.0
+2026-05,A3032,Sneha Bansal,Billing,Indore,7,16990.0
+2026-05,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,4,15495.0
+2026-05,A3038,Ankit Dhillon,Returns Desk,Bengaluru,5,14870.0
+2026-05,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,3,13472.0
+2026-05,A3033,Vikram Banerjee,Billing,Bengaluru,5,12846.0
+2026-05,A3027,Priya Agarwal,Logistics,Indore,3,11197.0
+2026-05,A3015,Sameer Jadhav,Chat Frontline,Bengaluru,2,10198.0
+2026-05,A3016,Thomas Kumar,Email Frontline,Indore,2,9972.0
+2026-05,A3005,Payal Bhatia,Chat Frontline,Indore,2,9473.0
+2026-05,A3011,Rohit Gill,Chat Frontline,Bengaluru,2,8848.0
+2026-05,A3008,Meera Malhotra,Chat Frontline,Bengaluru,1,7998.0
+2026-05,A3009,Sukhwinder Singh,Chat Frontline,Indore,1,6999.0
+2026-05,A3018,Krishna Bhatt,Email Frontline,Indore,4,6925.0
+2026-05,A3006,Varun Bhatt,Chat Frontline,Bengaluru,4,6670.0
+2026-05,A3002,Steven Ansari,Chat Frontline,Indore,4,6554.0
+2026-05,A3012,Lakshmi Srivastava,Chat Frontline,Bengaluru,1,6499.0
+2026-05,A3031,Zaid Desai,Logistics,Indore,1,6174.0
+2026-05,A3028,Sameer Kapoor,Logistics,Indore,4,5718.0
+2026-05,A3044,Arjun Kumar,Escalations & Warranty,Bengaluru,1,5598.0
+2026-05,A3007,Abhishek Gupta,Chat Frontline,Indore,1,5524.0
+2026-05,A3004,Geeta Dutta,Chat Frontline,Bengaluru,2,4849.0
+2026-05,A3013,Rohit Nair,Chat Frontline,Bengaluru,1,4499.0
+2026-05,A3017,Kabir Singh,Email Frontline,Indore,2,4248.0
+2026-05,A3020,Aadhya Singh,Email Frontline,Bengaluru,2,4200.0
+2026-05,A3014,Anjali D'Souza,Chat Frontline,Bengaluru,1,3499.0
+2026-05,A3024,Amit Deshpande,Voice Frontline,Bengaluru,1,3324.0
+2026-05,A3019,Kavya Agarwal,Email Frontline,Indore,1,2499.0
+2026-05,A3040,Thomas Jadhav,Escalations & Warranty,Bengaluru,1,2499.0
+2026-05,A3003,Komal Singh,Chat Frontline,Indore,1,2124.0
+2026-05,A3023,Ritika Gaikwad,Voice Frontline,Bengaluru,1,1439.0
+2026-05,A3043,Nikhil Gupta,Escalations & Warranty,Bengaluru,1,1169.0
+2026-06,A3036,Ritika D'Souza,Returns Desk,Indore,14,40595.0
+2026-06,A3037,Manish Iyer,Returns Desk,Indore,15,40343.0
+2026-06,A3035,Dev Kulkarni,Billing,Bengaluru,15,32274.0
+2026-06,A3030,Aishwarya Trivedi,Logistics,Indore,14,25868.0
+2026-06,A3028,Sameer Kapoor,Logistics,Indore,4,21211.0
+2026-06,A3034,Tanvi Rathore,Billing,Indore,7,19933.0
+2026-06,A3018,Krishna Bhatt,Email Frontline,Indore,6,19294.0
+2026-06,A3038,Ankit Dhillon,Returns Desk,Bengaluru,9,18599.0
+2026-06,A3032,Sneha Bansal,Billing,Indore,9,17782.0
+2026-06,A3039,Reyansh Mishra,Escalations & Warranty,Bengaluru,3,16497.0
+2026-06,A3033,Vikram Banerjee,Billing,Bengaluru,6,15621.0
+2026-06,A3001,Suresh Kaur,Chat Frontline,Indore,5,15315.0
+2026-06,A3029,Rajat Mukherjee,Logistics,Bengaluru,4,14496.0
+2026-06,A3005,Payal Bhatia,Chat Frontline,Indore,4,11882.0
+2026-06,A3009,Sukhwinder Singh,Chat Frontline,Indore,4,11728.0
+2026-06,A3024,Amit Deshpande,Voice Frontline,Bengaluru,3,11122.0
+2026-06,A3012,Lakshmi Srivastava,Chat Frontline,Bengaluru,3,10597.0
+2026-06,A3021,Meera Mathew,Email Frontline,Bengaluru,3,10278.0
+2026-06,A3015,Sameer Jadhav,Chat Frontline,Bengaluru,3,9797.0
+2026-06,A3027,Priya Agarwal,Logistics,Indore,2,9448.0
+2026-06,A3002,Steven Ansari,Chat Frontline,Indore,2,9323.0
+2026-06,A3010,Tenzin Mathew,Chat Frontline,Bengaluru,2,8528.0
+2026-06,A3008,Meera Malhotra,Chat Frontline,Bengaluru,3,8447.0
+2026-06,A3013,Rohit Nair,Chat Frontline,Bengaluru,2,8323.0
+2026-06,A3026,Aadhya Deshpande,Voice Frontline,Bengaluru,3,7997.0
+2026-06,A3003,Komal Singh,Chat Frontline,Indore,6,7555.0
+2026-06,A3006,Varun Bhatt,Chat Frontline,Bengaluru,4,7427.0
+2026-06,A3031,Zaid Desai,Logistics,Indore,4,6843.0
+2026-06,A3011,Rohit Gill,Chat Frontline,Bengaluru,1,2974.0
+2026-06,A3041,Mohammed Mehta,Escalations & Warranty,Bengaluru,1,2799.0
+2026-06,A3017,Kabir Singh,Email Frontline,Indore,2,2338.0
+2026-06,A3044,Arjun Kumar,Escalations & Warranty,Bengaluru,1,1709.0
+2026-06,A3022,Daniel Arora,Email Frontline,Indore,2,1596.0
+2026-06,A3016,Thomas Kumar,Email Frontline,Indore,2,1250.0
+2026-06,A3004,Geeta Dutta,Chat Frontline,Bengaluru,1,700.0
+2026-06,A3025,Komal Malhotra,Voice Frontline,Bengaluru,1,332.0
