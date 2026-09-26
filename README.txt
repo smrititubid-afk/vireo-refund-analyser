@@ -1,86 +1,164 @@
-VIREO AUDIO – REFUND ANALYSER
-==============================
-A self-contained analytics tool that answers Arjun Mehta's question:
-"Who is issuing refunds, how much, and for what reason — monthly?"
+# Vireo Audio Refund Analyser
 
-QUICK START
------------
-1. Install Python 3.12+ from https://python.org  (already done if you're reading
-   the post-setup README)
+A small Python + Streamlit tool for analysing Vireo Audio's support-ticket refund data.
 
-2. Open a terminal / PowerShell in this folder (vireo_refund_analyser/) and run:
+The main question I used to frame the analysis was:
 
-      pip install -r requirements.txt
+> Where are refunds coming from, how much is being refunded, and which cases need attention?
 
-   (On Windows, ensure your terminal is set to UTF-8 to prevent Unicode issues, or just use run.bat)
+## What it does
 
-3. Run the analysis pipeline (generates CSV outputs):
+The pipeline:
 
-      python analyse.py
+* reconciles the `helpdesk` and `legacy_fd` ticket records
+* calculates refund totals by month and quarter
+* breaks refunds down by reason code and agent
+* flags tickets where a refund and replacement were both issued
+* produces a short reconciliation note and board-pack memo
 
-4. Launch the interactive dashboard:
+The application is based on the supplied task-pack export. It is a batch analysis tool rather than a live helpdesk integration.
 
-      streamlit run app.py
+## Run it
 
-   The browser opens at http://localhost:8501
+Requirements: Python 3.9+
 
-OUTPUTS
--------
-output/
-  refund_by_reason_agent_month.csv   Main deliverable — reason × agent × month
-  refund_by_reason_month.csv         Subtotal by reason code per month
-  refund_by_agent_month.csv          Subtotal by agent per month
-  refund_by_quarter.csv              Quarterly totals (for reconciliation)
-  top_reasons.csv                    Top 10 reason codes overall
-  top_agents.csv                     Top 10 agents by refund volume
-  double_dip_tickets.csv             Tickets with both refund AND replacement
-  validation_sample.csv              30-ticket random spot-check sample
-  reconciliation_note.txt            Explains the Rs 1Cr vs Rs 11L discrepancy
+From the project folder:
 
-FILE MAP (data files must remain one folder above vireo_refund_analyser/)
---------------------------------------------------------------------------
-../*-tickets.csv
-../*-agents.csv
-../*-orders.csv
-../*-customers.csv
-../*-products.csv
+```bash
+python -m pip install -r requirements.txt
+python analyse.py
+python generate_memo.py
+python -m streamlit run app.py
+```
 
-KEY DESIGN DECISIONS
---------------------
-1. DEDUPLICATION
-   638 of 11,600 unique ticket IDs (5.5%) appear in both source systems: 'helpdesk'
-   (canonical) and 'legacy_fd' (migrated from Freshdesk). For the 125 overlapping
-   tickets with refund amounts, legacy_fd values are exactly 100x the helpdesk values 
-   (paise vs rupees). This is why Arjun's raw export showed >₹1Cr/qtr.
-   Rule: use 'helpdesk' row; only keep 'legacy_fd' row if no helpdesk counterpart
-   exists (in which case divide amount by 100). Result reconciles with Sameer's
-   helpdesk report of ~₹11L/qtr.
+On Windows, `run.bat` can be used as a shortcut.
 
-2. NO PAID APIS
-   Reason codes come from the helpdesk dropdown — no NLP needed. Classification
-   is a direct lookup table from the code string. Zero cost per run.
+The input files should be placed in:
 
-3. WHAT WAS DELIBERATELY LEFT OUT
-   • Full NLP / LLM re-classification of `agent_notes` free text — not needed
-     since the structured `refund_reason_code` dropdown field is already present
-     and reliable.
-   • Product lot-code defect clustering — possible future analysis.
-   • Real-time sync with live helpdesk — this is a batch export analyser.
+```text
+original task data/
+```
 
-TECH STACK
-----------
-Python 3.12, pandas 2.x, Streamlit 1.35+
-No external API keys required.
-Cost per run: ₹0.
+The analysis looks for the supplied CSV files by their filenames rather than relying on the original UUID names.
 
-ACCURACY / VALIDATION
----------------------
-- Deduplication rule manually checked against 30 random tickets → 30/30 correct.
-- Reason code labels are 1-to-1 lookups from the dropdown → 100% on coded tickets.
-- ~X% of refund tickets have blank reason_code → shown as 'Unknown / Blank'.
-  (exact % printed when you run analyse.py)
+No API key or external service is required.
 
-CONTACT
--------
-Built for: Arjun Mehta, Finance Controller, Vireo Audio
-Board pack deadline: 24 Sep 2026
+## Main outputs
+
+After running the pipeline, the `output/` folder contains:
+
+```text
+refund_by_reason_agent_month.csv   reason × agent × month breakdown
+refund_by_reason_month.csv         reason totals by month
+refund_by_agent_month.csv          agent totals by month
+refund_by_quarter.csv              quarterly refund totals
+top_reasons.csv                    highest-volume refund reasons
+top_agents.csv                     agent-level refund totals
+double_dip_tickets.csv             refund + replacement cases
+validation_sample.csv              sample records for review
+reconciliation_note.txt            explanation of the source reconciliation
+memo_to_arjun_mehta.txt            one-page summary for Finance
+```
+
+## Data reconciliation
+
+The raw ticket export contains records from two source systems.
+
+There are 11,600 unique ticket IDs:
+
+* 638 appear in both sources
+* 7,726 appear only in `helpdesk`
+* 3,236 appear only in `legacy_fd`
+
+For the 125 overlapping ticket IDs that contain refund amounts, the `legacy_fd` amount is exactly 100 times the corresponding `helpdesk` amount, while the other ticket fields match.
+
+The pipeline therefore:
+
+1. uses the `helpdesk` record when the same ticket exists in both systems
+2. keeps `legacy_fd` records that have no helpdesk counterpart
+3. converts the monetary value of legacy-only records using the same 100× relationship observed in the matched records
+
+The 100× conversion for legacy-only historical records is an assumption supported by the cross-system matches; those records cannot be verified ticket-by-ticket because there is no corresponding helpdesk row.
+
+## Main result
+
+Across the 18-month period:
+
+* Refund value: **₹67,09,932**
+* Refund tickets: **2,340**
+* Average refund value: **₹11,18,322 per quarter**
+* Refund + replacement ("double-dip") cases: **166**
+
+The main operational control identified is the double-dip case. The support policy does not allow a customer to receive both a refund and a replacement for the same order.
+
+The 166 flagged cases represent about **7.1% of refund tickets** and about **₹95.7K per quarter of associated refund value**, before considering any replacement cost.
+
+These are review cases rather than automatic deductions from agents.
+
+## Validation
+
+The main results were independently recalculated from the raw ticket export without reusing the analysis pipeline.
+
+The reconciliation checks covered:
+
+* total refund amount
+* refund ticket count
+* quarterly totals
+* double-dip count
+* cross-system ticket matches
+* refund amount relationship between matched records
+
+The headline figures matched with zero difference.
+
+For the 638 ticket IDs appearing in both systems:
+
+* all non-amount ticket fields matched
+* all 125 overlapping refund records had the expected 100× amount relationship
+* no mismatches were found in these checks
+
+The main known limitation is the legacy-only historical data, where the 100× conversion is inferred from matched records rather than verified against a second row for each ticket.
+
+## Why there is no LLM in the pipeline
+
+The task allowed AI/LLM use, but the refund reason is already provided as a structured field in the export.
+
+Because of that, I used a direct mapping for reason codes rather than adding an LLM classifier. This keeps the runtime deterministic, cheaper and easier to audit.
+
+AI tools were used during development for coding, debugging and review. The production run itself makes no paid API or LLM calls.
+
+## Deliberate scope
+
+I kept the tool focused on the Finance question and did not add:
+
+* LLM/NLP classification of free-text notes
+* live helpdesk integration
+* sentiment analysis
+* broader customer/product analysis
+
+Those could be useful later, but they were not necessary to answer the immediate refund question.
+
+## Limitations
+
+This is an analysis of an exported dataset, not a production integration.
+
+The double-dip report is a review queue and should be checked by Finance/Support before action.
+
+`GW-OTHER` cases above the ₹500 goodwill limit are treated as policy-exception signals, not as confirmed savings, because the current data does not establish that every such case is an incorrect goodwill payment.
+
+Agent-volume comparisons should also be interpreted with the Tier 1 / Tier 2 distinction in the supplied support policy.
+
+## Project structure
+
+```text
+vireo_refund_analyser/
+├── analyse.py
+├── app.py
+├── generate_memo.py
+├── validate.py
+├── requirements.txt
+├── run.bat
+├── README.md
+├── submission_form_answers.md
+├── output/
+└── original task data/
+```
